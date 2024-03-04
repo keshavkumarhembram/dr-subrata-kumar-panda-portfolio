@@ -1,0 +1,27 @@
+.container {
+    width: 100vw;
+    background-color: var(--background);
+}
+
+.education {
+    width: calc(80vw - 2rem);
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.education-panel {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    /* background-color: rgb(199, 180, 254); */
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+}
+
+.degree, .department, .institution, .title {
+    font-weight: bold;
+}
+
+.title span {
+    font-weight: 400;
+}

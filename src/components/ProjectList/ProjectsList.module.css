@@ -1,0 +1,18 @@
+.container {
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+    width: 100vw;
+    background-color: var(--background);
+    /* background-color: #0F161C; */
+    color: white;
+}
+
+.container h2 {
+    padding-left: 10vw;
+    padding-bottom: 2rem;
+}
+
+.table {
+    width: 80vw;
+    margin: auto;
+}

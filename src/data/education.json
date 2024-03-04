@@ -1,0 +1,30 @@
+{
+    "Education": [
+      {
+        "Degree": "Ph.D.",
+        "Date": "July-2010",
+        "Department": "Department of Aerospace Engineering",
+        "Institution": "Indian Institute of Technology Kharagpur",
+        "ThesisTitle": "Nonlinear Vibration Analysis of Thermally Post-buckled Composite Shell Panels with and without Shape Memory Alloy Fibres",
+        "Supervisor": "Dr. Bhrigu Nath Singh, Professor"
+      },
+      {
+        "Degree": "Master of Engineering",
+        "Date": "July-2005",
+        "Department": "Department of Applied Engineering and Mechanics and Drawing",
+        "Institution": "Bengal Engineering and Science University, Shibpur (HWH), WB, India.",
+        "ThesisTitle": "Development of an Optical Imaging System Suitable to Measure Body Contact Pressure",
+        "Supervisor": "Dr. Jayanta Kumar Chakravorty, Professor",
+        "Percentage": "81%"
+      },
+      {
+        "Degree": "Bachelor of Engineering",
+        "Date": "July-2001",
+        "Department": "Department of Mechanical Engineering",
+        "Institution": "C. V. Raman College of Engineering, Utkal University, (Orissa)",
+        "ProjectTitle": "Dynamic Behaviour Analysis of Turbine Rotor Bearing System by Transfer Matrix Method",
+        "Supervisor": "Mr. P. Mohapatra, Professor",
+        "Percentage": "73%"
+      }
+    ]
+  }

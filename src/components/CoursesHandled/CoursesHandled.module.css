@@ -1,0 +1,11 @@
+.courses-handled {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 80vw;
+    margin: auto;
+    color: black;
+}
+
+.courses-handled ul {
+    padding-left:1rem;
+}

@@ -1,0 +1,118 @@
+[
+    {
+        "Name": "Pankaj V. Katariya",
+        "Qualification": "M.Tech.(R)",
+        "Thesis": "Vibration and Buckling behaviour of Laminated Composite Plates Under Thermal and Mechanical Loading",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2014"
+    },
+    {
+        "Name": "Sushree S. Sahoo",
+        "Qualification": "M.Tech. (R)",
+        "Thesis": "Experimental and Numerical Investigation of Static and Dynamic Analysis of delaminated composite plate",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2016"
+    },
+    {
+        "Name": "Vishesh R. Kar",
+        "Qualification": "Ph.D., NIT Rourkela",
+        "Thesis": "Nonlinear Thermoelastic Vibration, Stability and Flexural Behaviour of Functionally Graded Curved Panels with TD and TID properties",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2015",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Trupti R. Mohapatra",
+        "Qualification": "Ph.D., Registered at KIIT University",
+        "Thesis": "Nonlinear Vibration and Flexural Analysis of Doubly Curved Composite Shell Panel Under Hygro-thermo-mechanical loading",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2016",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Vijay K. Singh",
+        "Qualification": "Ph.D., NIT Rourkela",
+        "Thesis": "Nonlinear Dynamic Analysis of Laminated Composite Doubly Curved Shallow Shell Panel Bonded with and without Piezoelectric Layer-Numerical and Experimental Approach",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2016",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Nitin Kumar Sharma",
+        "Qualification": "Ph.D., Registered at KIIT Bhubaneswar, Deemed to University",
+        "Thesis": "Vibroacoustic Behaviour of Laminated Composite and Sandwich Structure Under Hygrothermal Environment",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2018",
+        "Supervisor": "Supervisor from KIIT (Dr. T. R. Mahapatra)"
+    },
+    {
+        "Name": "Kulmani Mehar",
+        "Qualification": "Ph.D., NIT Rourkela",
+        "Thesis": "Nonlinear Thermoelastic Analysis CNT-reinforced Sandwich Structure Embedded with SMA fibre-Theoretical and Experimental verification",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2019",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Chetan K. Hirwani",
+        "Qualification": "Ph.D., NIT Rourkela",
+        "Thesis": "Experimental and Theoretical Nonlinear Transient Behaviour of Delaminated Composite Shell Panel under Hygro-Thermo-Mechanical Loading",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2019",
+        "Supervision": "(Co-Supervision Pro. S. S. Mahapatra, ME)"
+    },
+    {
+        "Name": "Shreeshan Jena (BMBT)",
+        "Qualification": "Ph.D., NIT Rourkela",
+        "Thesis": "Design and Improvement of Prosthetic devices for lower limb application",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2020",
+        "Supervision": "Main- Supervisor: Prof. A. Thirugnanam, BM"
+    },
+    {
+        "Name": "Pankaj V. Katariya",
+        "Qualification": "Ph.D.",
+        "Thesis": "Nonlinear Analysis of Skew Sandwich Laminated Structures Embedded with SMA Fibre under Hygro-Thermo-Mechanical Loading",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2020",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Prurhwiraj Sahoo",
+        "Qualification": "Ph.D",
+        "Thesis": "Numerical and Experimental Analysis of Hybrid Laminated Composite Structure under Thermo-Mechanical Loading",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2021 August",
+        "Supervisor": "Supervisor from KIIT (Dr. N. Sharma)"
+    },
+    {
+        "Name": "Hukum Dewangan",
+        "Qualification": "Ph.D",
+        "Thesis": "Theoretical and Experimental Analysis of Large Deformation Induced Frequency, Static and Transient Responses of Layered Structure with Cut-out under Thermo-Mechanical Loading",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2022",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Brundaban Sahoo",
+        "Qualification": "Ph.D",
+        "Thesis": "Vibration and Postbuckling analysis of Functionally Graded Sandwich Structure",
+        "Completion_Status": "Completed",
+        "Completion_Year": "2022",
+        "Supervision": "Main- Supervisor: Prof. Bamadev Sahoo, ME"
+    },
+    {
+        "Name": "Prashik Ramteke",
+        "Qualification": "Ph.D",
+        "Thesis": "Nonlinear Numerical Modelling and Analysis of Porous Functionally Graded Curved Structures under Thermomechanical Loading",
+        "Completion_Status": "Completed (January 2023)",
+        "Supervision": "Sole Supervision"
+    },
+    {
+        "Name": "Rajesh Satankar",
+        "Qualification": "Ph.D",
+        "Thesis": "Multiphysics-Multiscale Model Implementation for Thermoacoustic Response Prediction of Plant Fibre-Reinforced Hybrid Polymer Composite- An Experimental Verification",
+        "Completion_Status": "Completed (January 2023)",
+        "Supervision": "(Co-Supervision Pro. S. S. Mahapatra, ME)"
+    }
+]

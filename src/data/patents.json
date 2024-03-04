@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Automated GupChup Machine",
+      "inventors": ["Prakash Kumar Sarangi", "Subrata Kumar Panda", "Siba Shankar Mahapatra"],
+      "status": "GRANTED",
+      "grant_date": "29th October 2021",
+      "patent_number": "IN Patent 380941"
+    },
+    {
+      "title": "Fatigue and Creep Testing Machine for Nonmetallic/Composite Materials",
+      "inventors": ["Souvik Biswas", "Subrata Kumar Panda", "Chetan Kumar Hirwani"],
+      "status": "GRANTED",
+      "grant_date": "4th August 2022",
+      "patent_number": "IN Patent 403054"
+    },
+    {
+      "title": "Extruder for Rapid Prototyping Machines",
+      "inventors": ["Anshuman Guru", "Hukum Chand Dewangan", "Subrata Kumar Panda"],
+      "status": "PENDING",
+      "application_number": "202331003147",
+      "filing_date": "16th Jan 2023"
+    },
+    {
+      "title": "Extruder for 3D Printer",
+      "inventors": ["Anshuman Guru", "Hukum Chand Dewangan", "Subrata Kumar Panda"],
+      "status": "PENDING",
+      "application_number": "377725-001",
+      "filing_date": "20th Jan 2023"
+    }
+  ]

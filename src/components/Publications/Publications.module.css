@@ -1,0 +1,22 @@
+.publications {
+    padding-top: 2rem;
+    width: 80vw;
+    margin: auto;
+    color: black;
+}
+
+.publications-list {
+    height: 800px;
+    overflow-x: auto;
+    margin-bottom: 2rem;
+}
+
+.publications-item {
+    padding: 0.5rem;
+    /* border-radius: 0.5rem; */
+}
+
+.odd {
+    background-color: var(--background);
+    color: white;
+}

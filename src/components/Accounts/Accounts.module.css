@@ -1,0 +1,48 @@
+.container {
+    width: 100vw;
+    height: 350px;
+}
+
+.accounts {
+    width: 80vw;
+    margin: auto;
+}
+
+.accounts h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.link-container {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: var(--green);
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+}
+
+.accounts a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.accounts img {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 2rem;
+    width: 60px;
+    height: 60px;
+}

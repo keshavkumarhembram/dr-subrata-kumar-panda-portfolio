@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+        "S_No": "1",
+        "Name_of_the_Journal/Book": "Proceedings of the IMechE, Part C, Journal of Mechanical Engineering Science",
+        "Publisher": "Sage Publication",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "2",
+        "Name_of_the_Journal/Book": "Proceedings of the IMechE, Part G, Journal of Aerospace Engineering",
+        "Publisher": "Sage Publication",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "3",
+        "Name_of_the_Journal/Book": "Meccanica",
+        "Publisher": "Springer",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "4",
+        "Name_of_the_Journal/Book": "Journal of Mechanical Science and Technology",
+        "Publisher": "Springer",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "5",
+        "Name_of_the_Journal/Book": "Aerospace Science and Technology",
+        "Publisher": "Elsevier",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "6",
+        "Name_of_the_Journal/Book": "Mechanics of Advanced Materials and Structures",
+        "Publisher": "Taylor Francis",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "7",
+        "Name_of_the_Journal/Book": "International Journal of Latin America",
+        "Publisher": "Springer",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "8",
+        "Name_of_the_Journal/Book": "International Journal of Solids and Structures",
+        "Publisher": "Elsevier",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "9",
+        "Name_of_the_Journal/Book": "Engineering Mechanics Book by Oxford University Press 2011",
+        "Publisher": "Oxford",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "10",
+        "Name_of_the_Journal/Book": "European Journal of Mechanics Solids/A",
+        "Publisher": "Elsevier",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "11",
+        "Name_of_the_Journal/Book": "Structural Engineering Mechanics and Steel and Composite Structures",
+        "Publisher": "Techno press",
+        "Role": "Reviewer"
+    },
+    {
+        "S_No": "12",
+        "Name_of_the_Journal/Book": "International Journal of Mechanical Sciences",
+        "Publisher": "Elsevier",
+        "Role": "Reviewer"
+    }
+]
+
+  }
+  

@@ -1,0 +1,51 @@
+[
+    {
+        "Sl. No": "1",
+        "Title of the Project": "Fracture and Nonlinear Behavior Analysis of Laminated composite and Functionally Graded Curved Panels under Elevated Thermal Field",
+        "Cost in Lakh": "13.35",
+        "Agency": "AICTE",
+        "Status": "Completed (PI)"
+    },
+    {
+        "Sl. No": "2",
+        "Title of the Project": "Experimental and Numerical Investigation of Vibration Control of Laminated Composite Panel Bonded with Piezoelectric Materials",
+        "Cost in Lakh": "24.20",
+        "Agency": "DST",
+        "Status": "Completed (PI)"
+    },
+    {
+        "Sl. No": "3",
+        "Title of the Project": "Center of Excellence on Orthopedic Tissue Engineering and Rehabilitation (Institutional Level)",
+        "Cost in Lakh": "500",
+        "Agency": "TEQIP-II",
+        "Status": "Completed (PI)"
+    },
+    {
+        "Sl. No": "4",
+        "Title of the Project": "Experimental and numerical investigation of Dynamic behavior of De-laminated Carbon- Epoxy Composite Rocket motor casings (CRMCs) under Hygro-Thermal-Mechanical loading – Role of size of Delamination/Defects",
+        "Cost in Lakh": "61",
+        "Agency": "DRDO",
+        "Status": "Completed (PI)"
+    },
+    {
+        "Sl. No": "5",
+        "Title of the Project": "Electromagnetic welding (EMW) coil design & characterization from mechanical and metallurgical aspects for tubular jobs of ODS alloy with other materials.",
+        "Cost in Lakh": "27.00",
+        "Agency": "BRNS",
+        "Status": "Co-PI Completed"
+    },
+    {
+        "Sl. No": "6",
+        "Title of the Project": "Tough Biomimetic Composite Inspired by Abalone Nacre Architecture for Lightweight Multilayered Armour Applications",
+        "Cost in Lakh": "77.51",
+        "Agency": "IMPRINT",
+        "Status": "Co-PI (Work in progress)"
+    },
+    {
+        "Sl. No": "7",
+        "Title of the Project": "Optimal prediction and design of Adhesion/Delamination induced damages in Aerostructures",
+        "Cost in Lakh": "18.30",
+        "Agency": "TARE(SERB)",
+        "Status": "Mentor (PI at NIT Rourkela)"
+    }
+]

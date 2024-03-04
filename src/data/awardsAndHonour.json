@@ -1,0 +1,44 @@
+{
+    "ProfessionalRecognition": {
+      "Awards": [
+        {
+          "AwardType": "Silver Medal",
+          "Description": "For standing first in Masters."
+        },
+        {
+          "AwardType": "COSMIC OUTSTANDING RESEARCH AWARD-2017",
+          "Description": "For contribution in the field of Applied Research at AETM Conference-2017 Thailand."
+        },
+        {
+          "AwardType": "Best Technical Paper",
+          "Description": "In the field of Computer Aided Design Applications in Engineering during 58th Annual Technical Session at Institute of Engineers, Odisha state centre on 16th February 2017."
+        },
+        {
+          "AwardType": "Technical Annual Award",
+          "Description": "\"Er Raj Kishore Mahapatra Award\" to the paper titled “Vibroacoustic Behaviour of Unbaffled Laminated and Sandwich Composite Spherical Shell Panels in Thermal Environment.” during 59th Annual Technical Session at Institute of Engineers, Odisha state centre on 21st January 2018. (Contributor Dr. T. R. Mahapatra, Mr. N. Sharma)"
+        },
+        {
+          "AwardType": "NITRAA Research Excellence Award",
+          "Description": "In the Mechanical Engineering Sciences Category on 13th April 2019."
+        },
+        {
+          "AwardType": "Odisha Technocrat Award",
+          "Description": "In Odisha Technological Conclave 2023, on September 15th."
+        },
+        {
+          "AwardType": "Best Reviewers",
+          "Description": "In the year 2023 from Transactions of Indian Institute of Metals, Springer Publisher with 250 Euros coupon."
+        }
+      ],
+      "Fellowships": [
+        "SRF Fellowship (Defence Research and Development Organisation, New Delhi, India)",
+        "SRF Fellowship (AR & DB, DRDO, New Delhi, India)"
+      ],
+      "Memberships": [
+        "Member International Association of Engineer (169150)",
+        "Member Institute of Engineers (M-155016-5)",
+        "Member of Hong Kong Society of Mechanical Engineers (M20161213001)"
+      ]
+    }
+  }
+  

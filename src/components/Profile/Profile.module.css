@@ -1,0 +1,97 @@
+.container {
+    width: 100vw;
+    background-color: var(--background);
+}
+
+.profile-card {
+    width: 80vw;
+    margin-left: auto ;
+    margin-right: auto;
+    font-size: 1.2rem;
+    padding: 1rem;
+    padding-top: 6rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 1rem;
+    justify-content: space-between;
+    color: inherit;
+    background-color: inherit;
+}
+
+.profile-pic {
+    width: 300px;
+    height: 350px;
+    border-radius: 1rem;
+    opacity: 0.5;
+}
+
+.cv-download-link button {
+    border: none;
+    background: white;
+    padding: 15px 30px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+    transition: 0.5s;
+    cursor: pointer;
+    width: 200px;
+    height: 3rem;
+    padding: .5rem;
+    text-decoration: none;
+    color: var(--background);
+}
+
+.cv-download-link button:hover {
+    color: white;
+    background-color: var(--background);
+    border: 2px solid white;
+}
+
+.profile-details {
+    width: 70%;
+}
+
+.position {
+    font-weight: 700;
+}
+
+.profile-details h1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.difftext {
+    color: var(--emph-text);
+}
+
+.profile-details p {
+    word-wrap: break-word;
+}
+
+.email {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.social-image {
+    width: 40px;
+    height: 40px;
+}
+
+.slide-in {
+    animation: slideInLeft 1s ease forwards;
+    opacity: 0;
+}
+
+@keyframes slideInLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}

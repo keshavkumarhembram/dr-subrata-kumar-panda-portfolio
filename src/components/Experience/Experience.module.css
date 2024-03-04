@@ -1,0 +1,34 @@
+.container {
+    width: 100vw;
+    background-color: #0F161C;
+}
+
+.experience {
+    width: calc(80vw - 2rem);
+    margin: 1rem auto;
+    padding: 1rem;
+}
+
+.position {
+    position: relative;
+    /* background-color: rgb(199, 180, 254); */
+    background-color: #040913;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+}
+
+.period {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #20C863;
+    padding: 0.5rem;
+    border-radius: .5rem;
+}
+
+.fields {
+    margin-right: 10px;
+    color:#20C863;
+}

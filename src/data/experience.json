@@ -1,0 +1,53 @@
+{
+    "Total_Experience": "19.8 Years",
+    "Teaching_Experience": {
+      "Total_Years": "15.10 Years",
+      "Positions": [
+        {
+          "Position": "Lecturer in Mechanical Engineering",
+          "Institute": "CV Raman College of Engineering",
+          "Location": "Bhubaneswar, Orissa, India",
+          "Period": "2001-2003"
+        },
+        {
+          "Position": "Assistant Professor in School of Mechanical Engineering",
+          "Institute": "KIIT University",
+          "Location": "Bhubaneswar, Odisha, India",
+          "Period": "5th April 2010 to 30th June 2011"
+        },
+        {
+          "Position": "Assistant Professor in Department of Mechanical Engineering",
+          "Institute": "National Institute of Technology Rourkela",
+          "Location": "Odisha, India",
+          "Period": "1st July 2011 to Continuing",
+          "Sub_Positions": [
+            {
+              "Position": "Professor (Assistant)",
+              "Period": "30th Jan 2014 to 1st Feb 2018"
+            },
+            {
+              "Position": "Professor (Associate)",
+              "Period": "2nd Feb 2018 to 28th March 2023"
+            },
+            {
+              "Position": "Professor",
+              "Period": "29th March 2023 to Continuing"
+            }
+          ]
+        }
+      ]
+    },
+    "Research_Experience": {
+      "Total_Years": "3 Years 10 months",
+      "Positions": [
+        {
+          "Position": "Senior Research Fellow",
+          "Institute": "IIT Kharagpur",
+          "Location": "Kharagpur: 721302, West Bengal.",
+          "Period": "March 2006 to Jan 2010",
+          "Research_Area": "Nonlinear Structural Analysis"
+        }
+      ]
+    }
+  }
+  

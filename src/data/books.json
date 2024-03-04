@@ -1,0 +1,36 @@
+[
+    {
+      "type": "Book Chapter/Book/Edited Book",
+      "authors": ["V R Kar", "S K Panda", "K Jayakrishna", "P Tripathy", "M Manikandan", "A Karakoti"],
+      "title": "Deformation characteristics of functionally graded composite panels using finite element approximation",
+      "publication": "Elsevier",
+      "book_title": "Modelling of Damage Processes of Bio Composites, Fibre Reinforced Composites and Hybrid Composites",
+      "doi": "https://doi.org/10.1016/B978-0-08-102289-4.00012-6",
+      "publisher": "Woodhead Publishing Series in Composites Science and Engineering"
+    },
+    {
+      "type": "Book Chapter/Book/Edited Book",
+      "authors": ["Dewangan, H.C.", "Panda, S. K.", "Sharma, N.", "Hirwani, C. K."],
+      "title": "Investigation of Blast Loading Response of the Composite Sandwich Panels",
+      "publication": "CRC Press, Taylor and Francis Group",
+      "book_title": "Sandwich Composites",
+      "doi": "https://doi.org/10.1201/9781003143031-8"
+    },
+    {
+      "type": "Book Chapter/Book/Edited Book",
+      "authors": ["Hirwani, C. K.", "Pal, R.", "Choudhury, M.", "Panda, S. K.", "Sharma, N."],
+      "title": "Dynamic Behavior of Laminated Composites with Internal Delamination",
+      "publication": "CRC Press, Taylor and Francis Group",
+      "book_title": "Advanced Composite Materials and Structures",
+      "doi": "https://doi.org/10.1201/9781003158813-16"
+    },
+    {
+      "type": "Edited Book",
+      "title": "Advanced Composite Materials and Structures",
+      "subject": ["Engineering & Technology", "Physical Sciences"],
+      "editors": ["Mohamed Thariq Hameed Sultan", "Vishesh Ranjan Kar", "Subrata Kumar Panda", "Kandaswamy Jayakrishna"],
+      "publisher": "CRC Press",
+      "ebook_isbn": "9781003158813",
+      "doi": "https://doi.org/10.1201/9781003158813"
+    }
+  ]

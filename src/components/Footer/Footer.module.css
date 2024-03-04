@@ -1,0 +1,41 @@
+.container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 100vw;
+    font-size: 0.8rem;
+    background-color: #0F161C;
+    color: white;
+} 
+
+.footer {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer a {
+    color: grey;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer-info {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.college-logo {
+    width: 40px;
+}

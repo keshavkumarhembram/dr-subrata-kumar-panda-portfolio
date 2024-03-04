@@ -1,0 +1,17 @@
+.research-interests {
+    margin: 2rem auto;
+    width: 80vw;
+    color: black;
+    
+}
+
+.research-interests ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    padding-left: 30px;
+}
+
+.research-interests ul li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

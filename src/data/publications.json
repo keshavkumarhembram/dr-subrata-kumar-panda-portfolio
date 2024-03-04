@@ -1,0 +1,2364 @@
+[
+    {
+      "authors": ["Hirwani, C. K.", "Kumar, R.", "Kumar, E. K.", "Panda, S. K."],
+      "year": 2024,
+      "title": "Nonlinear Deflection Characteristics of Weakly Bonded Curved Composite Structure under Hygro-thermo-mechanical Loadings",
+      "journal": "International Journal of Applied Mechanics",
+      "status": "Accepted",
+      "impactFactor": 3.5,
+      "databases": ["SCIE", "SCOPUS"]
+    },
+    {
+      "authors": ["Kumar, E. K.", "Pattanayak, P.", "Panda, S. K."],
+      "year": 2024,
+      "title": "Large Deformation Dynamic Characteristics of Cracked Laminated Panel and Improvisation of Stiffness using Shape Memory Alloy (SMA) fibre",
+      "journal": "Journal of Pressure Vessel Technology",
+      "status": "Accepted",
+      "impactFactor": 1.0,
+      "databases": ["SCIE", "SCOPUS"]
+    },
+    {
+      "authors": ["Kumar, E. K.", "Patel, S. S.", "Panda, S. K.", "Patle, B. K.", "Makki, E.", "Giri, J."],
+      "year": 2024,
+      "title": "A Comprehensive Exploration of Shape Memory Alloys (SMA): Fundamentals, Structural Reinforcements, Nano Analysis, Machine Learning Perspective and Emerging Applications",
+      "journal": "Mechanics of Advanced Materials and Structures",
+      "status": "Accepted",
+      "impactFactor": 2.8,
+      "databases": ["SCIE", "SCOPUS"]
+    },
+    {
+      "authors": ["Kumar, E. K.", "Pattanayak, P.", "Biswas, S.", "Panda, S. K.", "Mahmoud, S. R."],
+      "year": 2023,
+      "title": "Dynamic Analysis of SMA Reinforced Damaged Layered Panel: Reversal of Structural Stiffness",
+      "journal": "AIAA Journal",
+      "status": "Accepted",
+      "impactFactor": 2.624,
+      "databases": ["SCIE", "SCOPUS"]
+    },
+    {
+      "authors": ["Akkasali, N. K.", "Biswas, S.", "Panda, S. K."],
+      "year": 2023,
+      "title": "Damage (Delamination and Crack) Effect on Frequency and Strain Energy Release Rate (SERR) in Adhesively Bonded Multi-Material Single Lap Joint-An Experimental Verification",
+      "journal": "Acta Mechanica",
+      "status": "Accepted",
+      "impactFactor": 2.7,
+      "databases": ["SCI", "SCIE", "SCOPUS"]
+    },
+    {
+        "authors": ["Mehar, K.", "Kumar, E. K.", "Patle, B. K.", "Panda, S. K.", "Biswas, S.", "Devarajan, Y."],
+        "year": 2023,
+        "title": "Thermoelastic Frequency Prediction of Nanotube-Reinforced Graded Smart (Shape Memory Alloy-Reinforced) Sandwich Structure",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "status": "Accepted",
+        "impactFactor": 2.33,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Singh, P.", "Kourav, P. S.", "Mohapatra, S.", "Kumar, V", "Panda, S. K."],
+        "year": 2023,
+        "title": "Human Heart Health Prediction using GAIT Parameters and Machine Learning Model",
+        "journal": "Biomedical Signal Processing & Control",
+        "status": "Accepted",
+        "impactFactor": 5.1,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mishra, P. K.", "Padhee, N.", "Panda, S. K.", "Kumar, E. K.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Free Vibration Frequency Prediction to Design Optimum Adhesively Bonded Double Lap Joint",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "status": "Accepted",
+        "impactFactor": 2.33,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Gangwar, A.", "Pattanayak, P.", "Panda, S. K.", "Pandey, H. K."],
+        "year": 2023,
+        "title": "Computational Modelling and Prediction of Elasto-Plastic Constitutive Behaviour of Damaged Polymeric Structure under High-Strain Loadings",
+        "journal": "Applied Physics A",
+        "status": "Accepted",
+        "impactFactor": 2.7,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Panda, S. K.", "Biswas, S", "Mahmoud, S. R.", "Balubaid, M."],
+        "year": 2023,
+        "title": "Theoretical Evaluation of Nonlinear Thermomechanical Deflection Characteristics of Damaged (Cracked) Layered Composite Structural Panel Bonded with Shape Memory Alloy (SMA) Fibre and Experimental Verification",
+        "journal": "Mechanics of Advanced Materials and Structures",
+        "status": "Accepted",
+        "impactFactor": 2.8,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mishra, P. K.", "Panda, S. K.", "Pati, S. N", "Kumar, K, E.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Minimization of Delamination Effect on Laminated Composite Plates using Functional Materials (Piezoelectric and Magnetostrictive)",
+        "journal": "Mechanics Based Design of Structures and Machines",
+        "status": "Accepted",
+        "impactFactor": 3.9,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Meher, A. K.", "Kumar, K, E.", "Gangwar, A.", "Panda, S. K.", "Pradhan, R. C."],
+        "year": 2023,
+        "title": "Review on Mechanobiological Analysis and Computational Study of Human Tissue (Soft and Hard) using Machine Learning Techniques: A Mechanical Perspective",
+        "journal": "Archives of Computational Methods in Engineering",
+        "status": "Accepted",
+        "impactFactor": 9.7,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mohapatra, S.", "Kumar, K, E.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Numerical Aeroelastic Flutter Prediction of Variable Stiffness Laminated Panels with Curvilinear Fiber in Supersonic Flow",
+        "journal": "Structures",
+        "status": "Accepted",
+        "impactFactor": 4.1,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Satapathy, R.", "P., K.", "Kumar, K.", "Hirwani, C., K", "Kumar, V.", "Kumar, K., E.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Computational Deep Learning Algorithm (Vision/Frequency Response) Based Damage Detection in Engineering Structure",
+        "journal": "Acta Mechanica",
+        "status": "Accepted",
+        "impactFactor": 2.7,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Meher, A. K.", "Kumar, V.", "Sharma, N.", "Dewangan, H. C.", "Katariya, P. V.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Numerical Prediction of Thermoacoustic Responses of CNT Reinforced Natural (Luffa) Fibre/Epoxy Hybrid Composite and Experimental Verification",
+        "journal": "Applied Acoustics",
+        "status": "Accepted",
+        "impactFactor": 3.1,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Kumar, V.", "Kumar, K, E.", "Gangwar, A.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Acoustic Emission Based Structural Health Prediction and Monitoring: A Comprehensive Review",
+        "journal": "International Journal of Applied Mechanics",
+        "status": "Accepted",
+        "impactFactor": 3.5,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Kumar, V.", "Panda, S. K.", "Sharma, N.", "Dewangan, H. C.", "Meher, A. K."],
+        "year": 2023,
+        "title": "Theoretical and Experimental Vibroacoustic Analysis of Advanced Hybrid Structure (CNT/Luffa/Epoxy)",
+        "journal": "Acta Mechanica",
+        "status": "Accepted",
+        "impactFactor": 2.7,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Satankar, R. K.", "Sharma, N.", "Katariya, P. V.", "Kumar, V.", "Dewangan, H. C.", "Pal, A.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Computational Modelling and Analysis of Thermoacoustic Behaviour of Carbon Nanotube-Reinforced Plant Fibre Epoxy Composite – An Extensive Review",
+        "journal": "Materials Today Communications",
+        "status": "Accepted",
+        "impactFactor": 3.8,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Thomas, L. C.", "Kumar, V.", "Gangwar, A.", "Pisupati, M. Gupta, C.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Computational Modelling and Experimental Techniques for Fibre Metal Laminate Structural Analysis: A Comprehensive Review",
+        "journal": "Archives of Computational Methods in Engineering",
+        "status": "Accepted",
+        "impactFactor": 9.7,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Tiwari, S.", "Kumar, E. K.", "Sharma, N.", "Hirwani, C. K.", "Panda, S. K.", "Mahmoud, S. R.", "Gupta, P.", "Balubaid, M."],
+        "year": 2023,
+        "title": "Green Waste Energy (Vibration and Wind) Hybrid Harvester Design and Analysis using Analytical and 3D Finite Element Method",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "status": "Accepted",
+        "impactFactor": 2.7,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Sharma, N.", "Dwivedi, M.", "Das, S. K.", "Uttarwar, C. R.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Theoretical Thermoelastic Frequency Prediction of Multi (Uni/bi) Directional Graded Porous Panels and Experimental Verification",
+        "journal": "STRUCTURES",
+        "status": "Accepted",
+        "impactFactor": 4.01,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K.", "Mahmoud, S. R."],
+        "year": 2023,
+        "title": "Computational Modelling and Analysis of Damaged Layered Structure under Variable Loading/Scale effect and Performances– A State of Art Review",
+        "journal": "Archives of Computational Methods in Engineering",
+        "status": "Accepted",
+        "impactFactor": 8.171,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K.", "Mahmoud, S. R."],
+        "year": 2023,
+        "title": "Nonlinear Modal Responses of Doubly Curved Damaged Shell Structure: Numerical Prediction and Experimental Validation",
+        "journal": "Structures",
+        "status": "Accepted",
+        "impactFactor": 4.010,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Nonlinear Thermomechanical Static and Dynamic Responses of Bidirectional Porous FG Shell Panels and Experimental Verifications",
+        "journal": "Journal of Pressure Vessel Technology, ASME",
+        "status": "Accepted",
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Computational Modelling and Experimental Challenges of Linear and Nonlinear Analysis of Porous Graded Structure: A Comprehensive Review",
+        "journal": "Archives of Computational Methods in Engineering",
+        "status": "Accepted",
+        "impactFactor": 8.171,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Badal, R.", "Jena, S.", "Pisupati, M.", "Kumar, E. K.", "Kumar, V.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Multiphysics (Stress and Deformation) Behaviour of Stented Bifurcated Coronary Artery (Soft Tissue) under Pulsatile Flow Condition",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "status": "Accepted",
+        "impactFactor": 2.333,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Panda, S. K.", "Dwivedi, M.", "Mahmoud, S. R.", "Balubaid, Md."],
+        "year": 2023,
+        "title": "Nonlinear Modal Responses of Doubly Curved Damaged Shell Structure: Numerical Prediction and Experimental Validation",
+        "journal": "IMechE Part C: AIAA Journal",
+        "status": "Accepted",
+        "impactFactor": 2.295,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Nonlinear Static and Dynamic Deflection/Stress Behaviour of Porous Functionally Graded Shell Panel and Experimental Validation",
+        "journal": "IMechE Part C: Journal of Mechanical Engineering Science",
+        "status": "Accepted",
+        "impactFactor": 1.758,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ghandehari, M. A.", "Masoodi A. R.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Thermal frequency analysis of double CNT-reinforced polymeric straight beam",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "status": "Accepted",
+        "impactFactor": 2.333,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mohapatra, S.", "Kumar, K, E.", "Panda, S. K."],
+        "year": 2023,
+        "title": "Geometrically Nonlinear Aeroelastic Flutter Characteristic of Laminated Composite Shell Panels under Supersonic Flow",
+        "journal": "International Journal of Applied Mechanics",
+        "status": "Accepted",
+        "impactFactor": 3.951,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K.", "Sharma, N.", "Mahmoud, S. R.", "Harursampath, D. K.", "Mahesh, V.", "Balubaid, Md."],
+        "year": 2022,
+        "title": "Thermo-Mechanical Large Deformation Characteristics of Cutout Borne Multilayered Curved Structure: Numerical Prediction and Experimental Validation",
+        "journal": "International Journal of Non-Linear Mechanics",
+        "status": "Accepted",
+        "impactFactor": 3.336,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Patel, S. S.", "Kumar, K, E.", "Panda, S. K.", "Sharma, N."],
+        "year": 2022,
+        "title": "State of Art Review on Computational Modelling and Analysis and Making of Brain Phantom",
+        "journal": "Archives of Computational Methods in Engineering",
+        "status": "Accepted",
+        "impactFactor": 8.171,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Panda, S. K.", "Dwivedi, M.", "Mahmoud, S. R.", "Balubaid, Md."],
+        "year": 2022,
+        "title": "Numerical Thermal Frequency Prediction of Smart Composite Structure and Experimental Validation",
+        "journal": "STRUCTURES",
+        "status": "Accepted",
+        "impactFactor": 4.01,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Nonlinear Static and Dynamic Response Prediction of Bidirectional Doubly-Curved Porous FG Panel and Experimental Validation",
+        "journal": "Composites Part A: Applied Science and Manufacturing",
+        "status": "Accepted",
+        "impactFactor": 9.463,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Panda, S. K.", "Mahmoud, S. R.", "Balubaid, Md."],
+        "year": 2022,
+        "title": "Influence of Active SMA Fibre on Deflection Recovery Characteristics of Damaged Laminated Composite Theoretical and Experimental Analysis",
+        "journal": "Fibers and Polymers",
+        "status": "Accepted",
+        "impactFactor": 2.153,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Pal, R.", "Chaudhury, M.", "Dewangan, H. C.", "Hirwani, C. K.", "Kumar, V.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Numerical Frequency Prediction of Combined Damaged Laminated Panel (Delamination Around Cut-out) and Experimental Validation",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "doi": "http://doi.org/10.1007/s42417-022-00812-5",
+        "status": "Accepted",
+        "impactFactor": 2.333,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Bondla, S.", "Sharma, N.", "Panda, S. K.", "Hirwani, C. K.", "Mahmoud, S. R.", "Kumar, V."],
+        "year": 2022,
+        "title": "Uncertain Frequency Responses of CNT- Reinforced Polymeric Graded Structure using Fuzzyfied Elastic Properties- Fuzzy Finite Element Approach",
+        "journal": "Waves in Random and Complex Media",
+        "doi": "https://doi.org/10.1080/17455030.2022.2147599",
+        "status": "Accepted",
+        "impactFactor": 4.853,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Panda, S. K.", "Mahmoud, S. R.", "Balubaid, Md."],
+        "year": 2022,
+        "title": "Numerical Investigation of Transient Thermo-Mechanical Loading Effect on Combined Damaged (Crack and Delamination) Curved Shell Structure: An Experimental Verification",
+        "journal": "Ocean Engineering",
+        "doi": "https://doi.org/10.1016/j.oceaneng.2022.113009",
+        "status": "Accepted",
+        "impactFactor": 4.372,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K.", "Mahmoud, S. R.", "Harursampath, D. K.", "Mahesh, V.", "Balubaid, Md."],
+        "year": 2022,
+        "title": "Review on Linear and Nonlinear Structural Responses Laminated Composite Flat/Curved Panels with and without Cutout under Thermo-Mechanical Loading",
+        "journal": "Acta Mechanica",
+        "status": "Accepted",
+        "impactFactor": 2.698,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K.", "Sharma, N."],
+        "year": 2022,
+        "title": "Review on Linear and Nonlinear Structural Responses Laminated Composite Flat/Curved Panels with and without Cutout under Thermo-Mechanical Loading",
+        "journal": "Composite Structures",
+        "doi": "https://doi.org/10.1016/j.compstruct.2022.116340",
+        "status": "Accepted",
+        "impactFactor": 6.603,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Patel. S. S.", "Kumar, V", "Panda, S. K.", "Mahmoud, S. R.", "Balubaid, Md."],
+        "year": 2022,
+        "title": "State of Art Review on Applications and Mechanism of Self-Healing Materials and Structure",
+        "journal": "Archives of Computational Methods in Engineering",
+        "doi": "10.1007/s11831-022-09827-3",
+        "status": "Accepted",
+        "impactFactor": 8.171,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, P.", "Arya, R.", "Sharma, N.", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Influence of Variable Stiffness on Frequency Responses of Curved Fibre-Reinforced Composite Panel",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "status": "Accepted",
+        "impactFactor": 2.333,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Sharma, N.", "Panda, S. K", "Mahmoud, S. R."],
+        "year": 2022,
+        "title": "Numerical Prediction of Thermal Buckling Load Parameters of Damaged Polymeric Layered Composite Structure and Reversal of Strength using SMA fibre",
+        "journal": "Archive of Applied Mechanics",
+        "status": "Accepted",
+        "impactFactor": 1.976,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo, B.", "Sharma, N.", "Sahoo, B.", "Ramteke, P. M.", "Panda, S. K.", "Mahmoud, S. R."],
+        "year": 2022,
+        "title": "Nonlinear Vibration Analysis of FGM Sandwich Structure under Thermal Loadings",
+        "journal": "Structures",
+        "doi": "https://doi.org/10.1016/j.istruc.2022.08.081",
+        "status": "Accepted",
+        "impactFactor": 4.010,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hissaria, P.", "Ramteke, P. M.", "Hirwani, C. K.", "Mahmoud, S. R.", "Kumar, K, E.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Numerical Investigation of Eigenvalue Characteristics (Vibration and Buckling) of Damaged Porous Bidirectional FG Panels",
+        "journal": "Journal of Vibration Engineering & Technologies",
+        "doi": "https://doi.org/10.1007/s42417-022-00677-8",
+        "status": "Accepted",
+        "impactFactor": 2.333,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Choudhary, J.", "Patle, B. K.", "Ramteke, P. M.", "Hirwani, C. K.", "Panda, S. K.", "Katariya, P. V."],
+        "year": 2022,
+        "title": "Static and Dynamic Deflection Characteristics of Cracked Porous FG Panels",
+        "journal": "International Journal of Applied Mechanics",
+        "doi": "https://doi.org/10.1142/S1758825122500764",
+        "status": "Accepted",
+        "impactFactor": 3.224,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K.", "Mahmoud, S. R."],
+        "year": 2022,
+        "title": "Nonlinear Dynamic Behavior of Damaged Laminated Shell Structure under Time-Dependent Mechanical Loading",
+        "journal": "Acta Mechanica",
+        "doi": "https://doi.org/10.1007/s00707-022-03341-0",
+        "status": "Accepted",
+        "impactFactor": 2.698,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V", "Kumar, K, E.", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K.", "Mahmoud, S. R."],
+        "year": 2022,
+        "title": "Strain Rate Loading Effects on Fibre-Reinforced Polymeric Composites with and without Damage: A Comprehensive Review",
+        "journal": "Transactions of Indian Institute of Metals",
+        "doi": "https://doi.org/10.1007/s12666-022-02728-w",
+        "status": "Accepted",
+        "impactFactor": 1.391,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Srivastava, L.", "Krishnand L.", "Nath, N. K.", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Effect of Blast Load on Dynamic Deflection Responses of Internally Damaged Carbon-Epoxy Laminated Composite Shallow Shell Panel using Experimental Properties",
+        "journal": "Transactions of Indian Institute of Metals",
+        "doi": "https://doi.org/10.1007/s12666-022-02698-z",
+        "status": "Accepted",
+        "impactFactor": 1.391,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Large Amplitude Hygrothermal Dependent Frequency and Post-Buckling Behaviour of Smart Skew Sandwich Shell Panel - A Macromechanical FE Approach",
+        "journal": "Fibers and Polymers",
+        "status": "Accepted",
+        "impactFactor": 2.153,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Numerical and Experimental Deflection Behavior of Damaged Doubly Curved Composite Laminated Shell Structure",
+        "journal": "Archive of Applied Mechanics",
+        "doi": "https://doi.org/10.1007/s00419-022-02202-5",
+        "status": "Published",
+        "impactFactor": 1.976,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Tiwari, S.", "Mishra, P. K.", "Dewangan, H. C.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Numerical Hygrothermal Frequency of Pre-Damage Shallow Shell Panel -A Nonlinear FE Approach",
+        "journal": "Waves in Random and Complex Media",
+        "status": "Accepted",
+        "impactFactor": 4.853,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Nonlinear thermoelastic numerical frequency analysis and experimental verification of cutout abided laminated shallow shell structure",
+        "journal": "J. of Pressure Vessel Technology",
+        "doi": "https://doi.org/10.1115/1.4054843",
+        "status": "Published",
+        "impactFactor": 1.051,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, K, E.", "Mishra, P. K.", "Dewangan, H. C.", "Panda, S. K.", "Dwivedi, M."],
+        "year": 2022,
+        "title": "Damaged composite structural strength enhancement under elevated thermal environment using shape memory alloy fiber",
+        "journal": "Acta Mechanica",
+        "doi": "https://doi.org/10.1007/s00707-022-03272-w",
+        "status": "Published",
+        "impactFactor": 2.698,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mohapatra, S.", "Sharma, N.", "Dewangan, H. C.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Flutter Characteristics of Multi-layered Composite Shell Panels under Supersonic Flow with Curvature Effect",
+        "journal": "Waves in Random and Complex Media",
+        "doi": "https://doi.org/10.1080/17455030.2022.2083719",
+        "status": "Published",
+        "impactFactor": 4.853,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Rajamohan, V.", "Sudhagar P. E.", "Paul Praveen A", "Topal, U.", "Panda, S. K.", "Trung, Vo-Duy"],
+        "year": 2022,
+        "title": "Optimal Response Prediction of Composite Honeycomb Sandwich Plate: Theoretical and Experimental Verification",
+        "journal": "International Journal of Applied Mechanics",
+        "doi": "https://doi.org/10.1142/S1758825122500363",
+        "status": "Published",
+        "impactFactor": 3.224,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V.", "Dewangan, H. C.", "Sharma, N.", "Panda, S.K."],
+        "year": 2022,
+        "title": "Numerical Frequency and SERR Response of Damaged (Crack/Delamination) Multilayered Composite under Themomechanical Loading: An Experimental Verification",
+        "journal": "Composite Structures",
+        "volume": "115709",
+        "doi": "https://doi.org/10.1016/j.compstruct.2022.115709",
+        "status": "Published",
+        "impactFactor": 5.407,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Kumar, V", "Sharma, N.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Nonlinear Vibration Analysis of Multidirectional Porous Functionally Graded Panel under Thermal Environment",
+        "journal": "AIAA Journal",
+        "doi": "https://doi.org/10.2514/1.J061635",
+        "status": "Published",
+        "impactFactor": 2.127,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Large Deformation Effect on Dynamic Deflection Responses of Cutout Borne Composite Shell Panel- An Experimental Validation",
+        "journal": "ASCE's Journal of Engineering Mechanics",
+        "doi": "https://doi.org/10.1061/(ASCE)EM.1943-7889.0002129",
+        "status": "Published",
+        "impactFactor": 2.62,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Kumar, V", "Sharma, N.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Geometrical Nonlinear Numerical Frequency Prediction of Porous Functionally Graded Shell Panel under Thermal Environment",
+        "journal": "International Journal of Non-Linear Mechanics",
+        "doi": "https://doi.org/10.1016/j.ijnonlinmec.2022.104041",
+        "status": "Published",
+        "impactFactor": 2.985,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Sharma, N.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Thermomechanical Loading and Cut-out Effect on Static and Dynamic Responses on Multilayered Structure with TD Properties",
+        "journal": "IMechE Part C: Journal of Mechanical Engineering Science",
+        "doi": "https://doi.org/10.1177/09544062221089153",
+        "status": "Published",
+        "impactFactor": 1.762,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Sharma, N.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Numerical Nonlinear Static Analysis of Cutout-Borne Multilayered Structures and Experimental Validation",
+        "journal": "AIAA Journal",
+        "doi": "https://doi.org/10.2514/1.J060643",
+        "status": "Published",
+        "impactFactor": 2.127,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Kumar, V", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Numerical Prediction of Static and Vibration Responses of Damaged (Crack and Delamination) Laminated Shell Structure: An Experimental Verification",
+        "journal": "Mechanical Systems and Signal Processing",
+        "doi": "https://doi.org/10.1016/j.ymssp.2022.108883",
+        "status": "Published",
+        "impactFactor": 6.823,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C", "Sharma, N.", "Thakur, M.", "Panda, S. K.", "Sahu, P."],
+        "year": 2021,
+        "title": "Numerical Thermo-Mechanical Bending Analysis of Hybrid Layered Composite Curved Panel and Experimental Validation",
+        "journal": "The European Physical Journal Plus",
+        "doi": "https://doi.org/10.1140/epjp/s13360-021-02335-6",
+        "status": "Published",
+        "impactFactor": 3.911,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahu, P.", "Sharma, N.", "Dewangan, H. C.", "Panda, S.K."],
+        "year": 2022,
+        "title": "Theoretical Prediction and Experimental Validity of Thermal Frequency Responses of Laminated Advanced Fibre-Reinforced Epoxy Hybrid Composite Panel",
+        "journal": "International Journal of Structural Stability and Dynamics",
+        "doi": "https://doi.org/10.1142/S0219455422500882",
+        "status": "Published",
+        "impactFactor": 2.558,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahu, P.", "Sharma, N.", "Dewangan, H. C.", "Panda, S.K."],
+        "year": 2022,
+        "title": "Thermo-Mechanical Transient Flexure of Glass-Carbon-Kevlar Reinforced Hybrid Curved Composite Shell Panels: An Experimental Verification",
+        "journal": "International Journal of Applied Mechanics",
+        "doi": "https://doi.org/10.1142/S1758825121501209",
+        "status": "Accepted",
+        "impactFactor": 3.224,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K.", "Patel, B."],
+        "year": 2022,
+        "title": "Nonlinear Eigenfrequency Characteristics of Multi-Directional Functionally Graded Porous Panels",
+        "journal": "Waves in Random and Complex Media",
+        "doi": "https://doi.org/10.1080/17455030.2021.2005850",
+        "status": "Published",
+        "impactFactor": 4.853,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Thakur, M.", "Deepak, S.S.K.", "Panda, S. K."],
+        "year": 2022,
+        "title": "Nonlinear Frequency Prediction of Cutout Borne Multi-Layered Shallow Doubly Curved Shell Structures",
+        "journal": "Composite Structures",
+        "volume": "279",
+        "page": "114756",
+        "doi": "https://doi.org/10.1016/j.compstruct.2021.114756",
+        "status": "Published",
+        "impactFactor": 5.407,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Patel, B.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Nonlinear Eigenfrequency Prediction of Functionally Graded Porous Structure with Different Grading Patterns",
+        "journal": "Waves in Random and Complex Media",
+        "doi": "https://doi.org/10.1080/17455030.2021.2005850",
+        "status": "Published",
+        "impactFactor": 4.853,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo, B.", "Mehar, K.", "Sahoo, B.", "Sharma, N.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Thermal Post-Buckling Analysis of Graded Sandwich Curved Structures under Variable Thermal Loadings",
+        "journal": "Engineering with Computers",
+        "status": "Accepted",
+        "impactFactor": 7.963,
+        "databases": ["SCIE", "SCOPUS"],
+        "doi": "https://doi.org/10.1007/s00366-021-01514-4"
+      },
+      {
+        "authors": ["Kumar, V", "Dewangan, H. C.", "Sharma, N.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Combined Damage Influence Prediction of Curved Composite Structural Responses Using VCCT Technique and Experimental Verification",
+        "journal": "International Journal of Applied Mechanics",
+        "doi": "https://doi.org/10.1142/S1758825121500861",
+        "impactFactor": 3.224,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahu, P.", "Sharma, N.", "Dewangan, H. C.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Experimental Validation of Multi-Fibre Hybridization Influence on Dynamic Deflection and Stress Values of Curved Composite Panel",
+        "journal": "Proceedings of the Institute of Mechanical Engineers Part L: Journal of Materials: Design and Applications",
+        "doi": "https://doi.org/10.1177/14644207211035998",
+        "impactFactor": 2.311,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Sharma, N.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Nonlinear Higher-Order Finite Element Implementation for Deflection and Stress Prediction of Cutout Borne Multilayered Composite Structures and Experimental Validation",
+        "journal": "AIAA Journal",
+        "doi": "https://doi.org/10.2514/1.J060643",
+        "impactFactor": 2.108,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Thakur, M.", "Patel, B.", "Ramteke, P. M.", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Dynamic Deflection Responses of Glass/Epoxy Hybrid Composite Structure Filled with Hollow-Glass Microbeads",
+        "journal": "The European Physical Journal Plus",
+        "status": "Accepted",
+        "impactFactor": 3.228,
+        "databases": ["SCI", "SCIE", "SCOPUS"],
+        "doi": "https://doi.org/10.1140/epjp/s13360-021-01710-7"
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Sharma, N.", "Choudhury, J.", "Hissaria, P.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Multidirectional Grading Influence on Static/Dynamic Deflection and Stress Responses of Porous FG Panel Structure: A Micromechanical Approach",
+        "journal": "Engineering with Computers",
+        "doi": "https://doi.org/10.1007/s00366-021-01449-w",
+        "impactFactor": 3.938,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Mishra, P. K.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Thermal Post-Buckling Strength Prediction and Improvement of SMA Bonded Carbon Nanotube-Reinforced Shallow Shell Panel: A Nonlinear FE Micromechanical Approach",
+        "journal": "Journal of Pressure Vessel Technology",
+        "volume": "143",
+        "issue": "6",
+        "pages": "061301",
+        "doi": "https://doi.org/10.1115/1.4050934",
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Mishra, P. K.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Thermal Buckling Strength of Smart Nanotube-Reinforced Doubly Curved Hybrid Composite Panels",
+        "journal": "Computers and Mathematics with Applications",
+        "volume": "90",
+        "pages": "13-24",
+        "doi": "https://doi.org/10.1016/j.istruc.2021.02.016",
+        "impactFactor": 3.37,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Mishra, P. K.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Nonlinear Steady-State Responses of Weakly Bonded Composite Shell Structure under Hygro-Thermo-Mechanical Loading",
+        "journal": "Composite Structures",
+        "volume": "265",
+        "pages": "113768",
+        "doi": "https://doi.org/10.1016/j.compstruct.2021.113768",
+        "impactFactor": 5.407,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Mishra, P. K.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Damage Propagation Prediction of Adhesion Failure in Composite T-joint Structure and Improvement using PZT Patch",
+        "journal": "Scientia Iranica",
+        "status": "Accepted",
+        "impactFactor": 0.76,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Free Vibrational Behaviour of Multi-Directional Porous Functionally Graded Structures",
+        "journal": "Arabian Journal of Science and Engineering",
+        "doi": "https://doi.org/10.1007/s13369-021-05461-6",
+        "impactFactor": 1.711,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K.", "Hirwani, C. K."],
+        "year": 2021,
+        "title": "Numerical Deflection and Stress Prediction of Cutout Borne Damaged Composite Flat/Curved Panel Structure",
+        "journal": "Structures",
+        "volume": "31",
+        "pages": "660-670",
+        "impactFactor": 1.839,
+        "doi": null,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Shaikh, S. F.", "Panda, S. K.", "Sharma, N.", "Jena, S."],
+        "year": 2021,
+        "title": "Creep behaviour of Nickel-Titanium shape-memory alloys under Static and Dynamic Loadings: An FEM approach",
+        "journal": "The European Physical Journal - Plus (EPJ Plus)",
+        "volume": "136",
+        "pages": "124",
+        "doi": "https://doi.org/10.1140/epjp/s13360-021-01080-0",
+        "impactFactor": 3.228,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Badal, R.", "Mohapatra, S.", "Bhoi, C.", "Sharma, N.", "Singh, N.", "Jena, S.", "Panda, S. K."],
+        "year": 2021,
+        "title": "Multiphysics Haemodynamic Behaviour of PLA-Based Stent: A Coupled Simulation Approach",
+        "journal": "ASME J of Medical Diagnostics",
+        "volume": "4",
+        "issue": "2",
+        "pages": "021005",
+        "doi": "https://doi.org/10.1115/1.4049967",
+        "databases": ["Web of Science", "SCOPUS"]
+      },
+      {
+        "authors": ["Singh, V. K.", "Singh, J.", "Rao K V.", "Singh, N. K.", "Saran, C. S.", "Panda, S. K.", "Paswan, M.", "Chaudhary, V."],
+        "year": 2020,
+        "title": "Elastic Behaviour Control of Smart Material Integrated Shallow Spherical Composite Panel using HOSDT Kinematics",
+        "journal": "Composite Structures",
+        "status": "Accepted",
+        "impactFactor": 5.138,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahu, P.", "Sharma, N.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Multi-Layer Advanced Fibre Hybridisation (Glass-Carbon-Kevlar) and Variable Stiffness Influence on Composite Structure Responses (Stress and Deformation): An FE Approach",
+        "journal": "Scientia Iranica",
+        "status": "Accepted",
+        "impactFactor": 0.76,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K.", "Mishra, P. K."],
+        "year": 2020,
+        "title": "Influence of Debonding on Nonlinear Deflection Responses of Curved Composite Panel Structure under Hygro-Thermo-Mechanical Loading- Macro-mechanical FE Approach",
+        "journal": "International Journal of Non-Linear Mechanics",
+        "volume": "128",
+        "pages": null,
+        "doi": "https://doi.org/10.1016/j.ijnonlinmec.2020.103636",
+        "impactFactor": 2.313,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan, H. C.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Transient Responses of Cut-out borne Composite Panel and Experimental Validity",
+        "journal": "Proceedings of IMechE Part G: Journal of Aerospace Engineering",
+        "doi": "https://doi.org/10.1177/0954410020977344",
+        "impactFactor": 1.244,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, Pankaj V.", "Panda, S. K.", "Mehar, K."],
+        "year": 2020,
+        "title": "Theoretical Modelling and Experimental Verification of Modal Responses of Skewed Laminated Sandwich Structure with Epoxy-Filled Softcore",
+        "journal": "Engineering Structures",
+        "status": "In Press",
+        "doi": "https://doi.org/10.1016/j.engstruct.2020.111509",
+        "impactFactor": 3.548,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Dewangan H. C."],
+        "year": 2020,
+        "title": "Multiscale Finite Element Prediction of Thermomechanical Flexural Strength of Nanotube-Reinforced Hybrid Smart Composite Panel Bonded with SMA Fibre",
+        "journal": "Structures",
+        "volume": "28",
+        "pages": "2300-2310",
+        "doi": "https://doi.org/10.1016/j.istruc.2020.10.049",
+        "impactFactor": 1.839,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan H. C.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Thermoelastic Eigenfrequency Prediction of Damaged Layered Shell Panel with Concentric/Eccentric Cutout and Corrugated (TD/TID) Properties",
+        "journal": "Engineering with Computers",
+        "doi": "https://doi.org/10.1007/s00366-020-01199-1",
+        "impactFactor": 3.938,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Satankar, R. K.", "Sharma, N.", "Ramteke, P. M.", "Panda, S. K.", "Mahapatra, S. S."],
+        "year": 2020,
+        "title": "Acoustic Responses of Natural Fibre Reinforced Nanocomposite Structure using Multiphysics Approach and Experimental Validation",
+        "journal": "Advances in Nano Research an International Journal",
+        "volume": "9",
+        "issue": "4",
+        "pages": "263-276",
+        "doi": "10.12989/anr.2020.9.4.263",
+        "impactFactor": 4.583,
+        "databases": ["SCIE", "ESCI"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Patel, B", "Panda, S. K."],
+        "year": 2020,
+        "title": "Time-Dependent Deflection Responses of Porous FGM Structure Including Pattern and Porosity",
+        "journal": "International Journal of Applied Mechanics",
+        "doi": "https://doi.org/10.1142/S1758825120501021",
+        "impactFactor": 2.499,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo, B.", "Sahoo, B.", "Sharma, N.", "Mehar, K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Thermal frequency analysis of FG sandwich structure under variable temperature loading",
+        "journal": "Structural Engineering Mechanics, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 2.804,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo, B.", "Sahoo, B.", "Sharma, N.", "Mehar, K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Prediction of Buckling Load of FG Sandwich under Variable Temperature Loading",
+        "journal": "Smart Structures and Systems, An International Journal",
+        "volume": "26",
+        "issue": "5",
+        "pages": "641-656",
+        "doi": "10.12989/sss.2020.26.5.641",
+        "impactFactor": 3.577,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo, B.", "Sahoo, B.", "Sharma, N.", "Mehar, K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Prediction of Buckling Load of FG Sandwich under Variable Temperature Loading",
+        "journal": "Smart Structures and Systems, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 3.622,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan H. C.", "Panda, S. K.", "Sharma, N."],
+        "year": 2020,
+        "title": "Experimental validation of role of cut-out parameter on modal responses of laminated composite – a coupled fe approach",
+        "journal": "International Journal of Applied Mechanics",
+        "volume": "12",
+        "issue": "6",
+        "doi": "10.1002/pc.25724",
+        "impactFactor": 2.499,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Satankar, R. K.", "Sharma, N.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Multiphysica Theoretical Prediction and Experimental Verification of Vibroacoustic Responses of Fruit Fibre-Reinforced Polymeric Composite",
+        "journal": "Polymer Composites",
+        "volume": "41",
+        "issue": "11",
+        "pages": "4461-4477",
+        "doi": "https://doi.org/10.1002/pc.25724",
+        "impactFactor": 2.268,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Multiphysical Numerical (FE-BE) Solution of Sound Radiation Responses of Laminated Sandwich Shell Panel including Curvature Effect",
+        "journal": "Computers and Mathematics with Applications",
+        "volume": "80",
+        "issue": "5",
+        "pages": "1221-1239",
+        "doi": "https://doi.org/10.1016/j.camwa.2020.06.010",
+        "impactFactor": 2.811,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Mehar, K.", "Sharma, N.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Prediction of Deflection and Stress Responses of FGM Structure for Grading Patterns (Power-Law, Sigmoid and Exponential) and Variable Porosity (Even/Uneven)",
+        "journal": "Scientia Iranica",
+        "status": "Accepted",
+        "impactFactor": 0.76,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, Pankaj, V.", "Mehar, K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Nonlinear Dynamic Responses of Layered Skew Sandwich Composite Structure and Experimental Validation",
+        "journal": "International Journal of Non-Linear Mechanics",
+        "status": "Accepted",
+        "impactFactor": 2.313,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Mishra, K.", "Panda, S. K.", "Kumar, Vikash", "Dewangan H. C."],
+        "year": 2020,
+        "title": "Analytical Evaluation and Experimental Validation of Energy Harvesting Using Low-Frequency Band of Piezoelectric Bimorph Actuator",
+        "journal": "Smart Structures and Systems, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 3.622,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Patle, B. K.", "Hirwani, C. K.", "Panda, S. K.", "Katariya, P. V.", "Dewangan, H. C.", "Sharma, N."],
+        "year": 2020,
+        "title": "Nonlinear Deflection Responses of Layered Composite Structure using Uncertain Fuzzified Elastic Properties",
+        "journal": "Steel and Composite Structures",
+        "impactFactor": 3.899,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Jena, S.", "Sakhare, G. M.", "Panda, S. K.", "Thirugnanam, A."],
+        "year": 2020,
+        "title": "Implementation of multiple regression technique for detection of gait asymmetry using experimental gait data",
+        "journal": "Journal of Medical and Biological Engineering",
+        "status": "Accepted",
+        "inPress": true,
+        "impactFactor": 1.361,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan H. C.", "Sharma, N.", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Eigenfrequency and Experimental Verification of Variable Cut-out (Square/Rectangular) Borne Layered Glass/Epoxy Flat/Curved Panel Structure",
+        "journal": "Mechanics Based Design of Structures and Machines",
+        "doi": "10.1080/15397734.2020.1759432",
+        "inPress": true,
+        "impactFactor": 1.986,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["K. L. Anil", "Panda, S. K.", "Sharma, N.", "Hirwani, C. K.", "Topal, U."],
+        "year": 2020,
+        "title": "Optimal Fiber Volume Fraction Prediction of Layered Composite using Frequency Constraints- A Hybrid FEM Approach",
+        "journal": "Computers and Concrete, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 1.889,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Satankar, R. K.", "Sharma, N.", "Panda, S. K.", "Mohapatra, S. S."],
+        "year": 2020,
+        "title": "Experimental and simulation study of eigen frequency responses of Luffa cylindrica sponge fibre polymer composite",
+        "journal": "Materials Today Proceedings",
+        "conference": "ICPCM-2019",
+        "status": "Accepted",
+        "SNIP": 0.697,
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Mahapatra, B. P.", "Panda, S. K.", "Sharma, N."],
+        "year": 2020,
+        "title": "Static deflection simulation study of 2D Functionally graded porous structure",
+        "journal": "Materials Today Proceedings",
+        "conference": "ICPCM-2020",
+        "status": "Accepted",
+        "SNIP": 0.697,
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Sharma, N."],
+        "year": 2020,
+        "title": "Numerical Investigation and Experimental Verification of Thermal Frequency of Carbon Nanotube- Reinforced Sandwich Structure",
+        "journal": "Engineering Structures",
+        "status": "Accepted",
+        "impactFactor": 3.084,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dewangan. H. C.", "Katariya, P. V.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Time-dependent transverse deflection responses of the layered composite plate with concentric circular cut-out",
+        "journal": "Materials Today Proceedings",
+        "conference": "ICPCM-2020",
+        "status": "Accepted",
+        "SNIP": 0.697,
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Pandey. H. K.", "Dewangan. H. C.", "Katariya, P. V.", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "The effect of hybridisation by hollow glass-cenosphere on the modal response of the laminated composite plate",
+        "journal": "Materials Today Proceedings",
+        "conference": "ICPCM-2020",
+        "status": "Accepted",
+        "SNIP": 0.697,
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Sahu, P.", "Sharma, N.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Prediction and Experimental Validation of Free Vibration Responses of Hybrid Composite (Glass/Carbon/Kevlar) Curved Panel Structure",
+        "journal": "Composite Structures",
+        "DOI": "10.1016/j.compstruct.2020.112073",
+        "impactFactor": 4.829,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahu, P.", "Sharma, N.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical eigen-frequencies of hybrid fiber composite curved shell panels",
+        "journal": "Materials Today Proceedings",
+        "conference": "ICMPC-2020",
+        "status": "Accepted",
+        "SNIP": 0.697,
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Mishra, P. K."],
+        "year": 2020,
+        "title": "Numerical Investigation of Thermal Frequency Responses of Graded Hybrid Smart Nanocomposite (CNT-SMA-Epoxy) Structure",
+        "journal": "Mechanics of Advanced Materials and Structures",
+        "status": "Accepted",
+        "impactFactor": 2.873,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Mishra, P. K.", "Panda, S. K."],
+        "year": 2020,
+        "title": "Numerical Modeling and Prediction of Adhesion Failure of Adhesively Bonded Composite T-Joint Structure",
+        "journal": "Structural Engineering Mechanics",
+        "status": "Accepted",
+        "impactFactor": 2.804,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Numerical Analysis of Thermal Post-Buckling Strength of Laminated Skew Sandwich Composite Shell Panel Structure Including Stretching Effect",
+        "journal": "Steel and Composite Structures",
+        "status": "Accepted",
+        "impactFactor": 3.899,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Parhi, A.", "Singh, B. N.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Nonlinear free vibration analysis of composite conical shell panel with cluster of delamination in hygrothermal environment",
+        "journal": "Engineering with Computers",
+        "status": "Accepted",
+        "impactFactor": 3.551,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Nonlinear Deformation and Stress Responses of Graded Carbon Nanotube Sandwich Plate Structure under Thermoelastic Loading",
+        "journal": "Acta Mechanica",
+        "status": "Accepted",
+        "DOI": "10.1007/s00707-019-02579-5",
+        "impactFactor": 2.166,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Ramteke, P. M.", "Panda, S. K.", "Sharma, N."],
+        "year": 2019,
+        "title": "Effect of Grading Pattern and Porosity on Eigenfrequency Responses of FGM Structure",
+        "journal": "Steel and Composite Structures",
+        "volume": "33",
+        "issue": "6",
+        "pages": "865",
+        "impactFactor": 3.899,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Jena, S.", "Thirugnanam, A.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Experimental and Numerical Investigation of A Polypropylene Orthotic Device for Assistance in Level Ground Walking",
+        "journal": "Proceedings of Mechanical Engineering IMechE-Part H: Journal of Engineering in Medicine",
+        "status": "Accepted",
+        "impactFactor": 1.104,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Pandey, H. K.", "Hirwani, C. K.", "Sharma, N.", "Katariya, P. V.", "Dewangan, H. C.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Effect of Nano Glass Cenosphere Filler on Hybrid Composite Eigenfrequency Responses -An FEM Approach and Experimental Verification",
+        "journal": "Structural Engineering Mechanics",
+        "status": "Accepted",
+        "impactFactor": 2.804,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Pandey, H. K.", "Hirwani, C. K.", "Sharma, N.", "Katariya, P. V.", "Dewangan, H. C.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Effect of Nano Glass Cenosphere Filler on Hybrid Composite Eigenfrequency Responses -An FEM Approach and Experimental Verification",
+        "journal": "Advances in Nano Research",
+        "status": "Accepted",
+        "impactFactor": 2.109,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Lallipeli, A. K.", "Hirwani, C. K.", "Das, A.", "Panda, S. K.", "Topal, U.", "Dede, T."],
+        "year": 2019,
+        "title": "Optimal Deflection and Stacking Sequence Prediction of Curved Composite Structure using Hybrid (FEM and Soft Computing) Technique",
+        "journal": "Engineering with Computers",
+        "status": "Accepted",
+        "DOI": "10.1007/s00366-019-00836-8",
+        "impactFactor": 3.551,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Hygrothermal Effect on Vibroacoustic Behaviour of Higher-Order Sandwich Panel Structure with Laminated Composite Face Sheets",
+        "journal": "Engineering Structures",
+        "DOI": "10.1016/j.engstruct.2019.109355",
+        "impactFactor": 3.084,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Nonlinear Thermal Free Vibration Frequency Analysis of Delaminated Shell Panel using FEM",
+        "journal": "Composite Structures",
+        "status": "Accepted",
+        "impactFactor": 4.101,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Multiscale Modeling and Analysis of Buckling Behavior of Nanocomposite Curved Structure",
+        "journal": "Advances in Nano Research",
+        "impactFactor": 2.333,
+        "databases": ["SCIE", "ESCI"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Nonlinear Transient Analysis of Delaminated Curved Composite Structure under Blast/Pulse Load",
+        "journal": "Engineering with Computers",
+        "DOI": "10.1007/s00366-019-00757-6",
+        "status": "Accepted",
+        "impactFactor": 3.551,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Numerical Frequency Analysis of Skew Sandwich Layered Composite Shell Structures under Thermal Environment including Shear Deformation Effects",
+        "journal": "Structural Engineering Mechanics, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 2.191,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kunche, M. C.", "Mishra, P. K.", "Nallala, H. B.", "Hirwani, C. K.", "Katariya, P. V.", "Panda, S.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Theoretical and Experimental Modal Responses of Adhesive Bonded T-Joints",
+        "journal": "Wind and Structures",
+        "impactFactor": 1.247,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mishra, E.", "Jena, S.", "Bhoi, C.", "Arunachalam, T.", "Panda, S. K."],
+        "year": 2019,
+        "title": "Effect of high heel gait on hip and knee-ankle-foot rollover characteristics while walking over inclined surfaces—A pilot study",
+        "journal": "The Foot",
+        "impactFactor": 0.736,
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Devarajan, Y.", "Choubey, G."],
+        "year": 2019,
+        "title": "Numerical Buckling Analysis of Graded CNT-reinforced Composite Sandwich Shell Structure under Thermal Loading",
+        "journal": "Composite Structures",
+        "volume": 216,
+        "pages": "406-414",
+        "DOI": "10.1016/j.compstruct.2019.03.002",
+        "impactFactor": 4.101,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Theoretical Deflection Analysis of Multiwalled Carbon Nanotube Reinforced Sandwich Panel and Experimental Verification",
+        "journal": "Composites Part B",
+        "status": "Accepted",
+        "impactFactor": 4.920,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dash, S.", "Mehar, K.", "Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Finite element solution of stress and flexural strength of functionally graded doubly curved sandwich shell panel",
+        "journal": "Earthquake and Structures",
+        "status": "Accepted",
+        "impactFactor": 1.309,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Das, A.", "Hirwani, C. K.", "Panda, S. K.", "Topal, U.", "Tayfun, D."],
+        "year": 2018,
+        "title": "Prediction and Analysis of Optimal Frequency of Layered Composite Structure using Higher-Order FEM and Soft Computing Techniques",
+        "journal": "Steel and Composite Structures",
+        "status": "Accepted",
+        "impactFactor": 3.198,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Vibroacoustic analysis of thermo-elastic laminated composite sandwich curved panel: A higher-order FEM-BEM approach",
+        "journal": "International Journal of Mechanics and Materials in Design",
+        "status": "Accepted",
+        "impactFactor": 1.896,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dash, S.", "Mehar, K.", "Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Modal Analysis of FG Sandwich Doubly Curved Shell Structure",
+        "journal": "Structural Engineering Mechanics, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 2.191,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Frequency and Deflection Responses of Shear Deformable Skew Sandwich Curved Shell Panel - A Finite Element Approach",
+        "journal": "Arabian Journal for Science and Engineering",
+        "status": "Accepted",
+        "impactFactor": 1.092,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Numerical Evaluation of Transient Deflection and Frequency Responses of Sandwich Shell Structure Using Higher-Order Theory and Different Mechanical Loadings",
+        "journal": "Engineering with Computers",
+        "status": "Accepted",
+        "impactFactor": 1.951,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Shinde, D.", "Katariya, P. V.", "Mehar, K.", "Khan, R.", "Panda, S. K.", "Pandey H. K."],
+        "year": 2018,
+        "title": "Experimental Training of Shape Memory Alloy Fibres under Combined Thermomechanical Loading",
+        "journal": "Structural Engineering Mechanics, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 2.191,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Nonlinear Finite Element Solutions of Thermoelastic Deflection and Stress Responses of Internally Damaged Curved Panel Structure",
+        "journal": "Applied Mathematical Modelling",
+        "status": "Accepted",
+        "impactFactor": 2.617,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Chandra Mouli B", "K. Ramji", "Kar V. R.", "Panda, S. K.", "Lalepalli A. K.", "Pandey H. K."],
+        "year": 2018,
+        "title": "Numerical Study of Temperature Dependent Eigenfrequency Responses of Tilted Functionally Graded Shallow Shell Structures",
+        "journal": "Structural Engineering Mechanics, An International Journal",
+        "status": "Accepted",
+        "impactFactor": 2.191,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Bisen, H. B.", "Hirwani, C. K.", "Satankar, R. K.", "Panda, S. K.", "Mehar, K.", "Patel, B."],
+        "year": 2018,
+        "title": "Numerical Study of Frequency and Deflection Responses of Natural Fibre (Luffa) Reinforced Polymer Composite and Experimental Validation",
+        "journal": "Journal of Natural Fibre",
+        "status": "Accepted",
+        "volume": null,
+        "pages": null,
+        "doi": null,
+        "impactFactor": 1.076,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Nonlinear finite element solutions of thermoelastic flexural strength and stress values of temperature dependent graded CNT-reinforced sandwich shallow shell structure",
+        "journal": "Structural Engineering Mechanics",
+        "status": null,
+        "volume": 67,
+        "pages": "565-578",
+        "doi": null,
+        "impactFactor": 2.191,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Biswas, S.", "Roynaskar, A.", "Hirwani, C.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Design and Fabrication of Thermoelectric Waste Heat Reutilization system –Possible Industrial Application",
+        "journal": "International Journal of Energy Research",
+        "status": "Accepted",
+        "volume": null,
+        "pages": null,
+        "doi": "10.1002/er.4157",
+        "impactFactor": 2.598,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Numerical analysis of acoustic radiation responses of shear deformable laminated composite shell panel in hygrothermal environment",
+        "journal": "Journal of Sound and Vibration",
+        "status": "Accepted",
+        "volume": 431,
+        "pages": "346-366",
+        "doi": "10.1016/j.jsv.2018.06.007",
+        "impactFactor": 2.593,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K.", "Mehar, K."],
+        "year": 2018,
+        "title": "Evaluation of vibroacoustic responses of higher-order laminated composite sandwich structure",
+        "journal": "Steel and Composite Structures",
+        "status": "Accepted",
+        "volume": null,
+        "pages": null,
+        "doi": null,
+        "impactFactor": 3.198,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Mahapatra, T. R.", "Panda, S. K.", "Katariya P. V.", "Tompe, U."],
+        "year": 2018,
+        "title": "Nonlocal elasticity and scale effect on frequency behaviour of shear deformable nanoplate structure- a finite element solution",
+        "journal": "Journal of Engineering Mechanics, ASCE",
+        "status": null,
+        "volume": 144,
+        "pages": "04018094",
+        "doi": null,
+        "impactFactor": null,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K.", "Patle, B. K."],
+        "year": 2018,
+        "title": "Theoretical and Experimental Validation of Nonlinear Deflection and Stress Responses of Internal Debonded Layer Structure Using Different Higher-Order Theories",
+        "journal": "Acta Meccanica",
+        "status": null,
+        "volume": 229,
+        "pages": "3453–3473",
+        "doi": null,
+        "impactFactor": 1.851,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Patle, B. K.", "Hirwani, C. K.", "Singh, R. P.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Eigenfrequency and Deflection Analysis of Layered Structure using Uncertain Elastic Properties-A Fuzzy Finite Element Approach",
+        "journal": "International Journal of Approximate Reasoning",
+        "status": null,
+        "volume": 98,
+        "pages": "163-176",
+        "doi": null,
+        "impactFactor": 2.845,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Hirwani, C. K.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Geometrically Nonlinear Deflection and Stress Analysis of Skew Sandwich Shell Panel using Higher-Order Theory",
+        "journal": "Engineering with Computers",
+        "status": "Accepted",
+        "volume": 35,
+        "pages": "1-19",
+        "doi": "10.1007/s00366-018-0609-3",
+        "impactFactor": 0.765,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Numerical and Experimental Validation of Nonlinear Deflection and Stress Responses of Pre-Damaged Glass-Fibre Reinforced Composite Structure",
+        "journal": "Ocean Engineering",
+        "status": "Accepted",
+        "pii": "S0029-8018(18)30489-X",
+        "impactFactor": 1.894,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Singh, V. K.", "Hirwani, C. K.", "Panda, S. K.", "Mahapatra, T. R.", "Mehar, K."],
+        "year": 2018,
+        "title": "Numerical and Experimental Nonlinear Dynamic Response Reduction of Smart Composite Curved Structure using Collocation and Non-Collocation Configuration",
+        "journal": "IMechE Part C: Journal of Mechanical Engineering Science",
+        "status": "Accepted",
+        "impactFactor": 1.015,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2018,
+        "title": "Nonlinear thermal buckling behaviour of laminated composite panel structure including the stretching effect and higher-order finite element",
+        "journal": "Advances in Material Research",
+        "volume": "6",
+        "issue": "4",
+        "pages": "000-000",
+        "doi": "https://doi.org/10.12989/amr.2017.6.4.000",
+        "status": "Accepted",
+        "databases": ["ESCI"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K.", "Katariya, P. V."],
+        "year": 2018,
+        "title": "Thermo-acoustic analysis of higher-order shear deformable laminated composite sandwich flat panel",
+        "journal": "International Journal Sandwich Structures",
+        "status": "Accepted",
+        "impactFactor": 2.933,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Numerical Nonlinear Frequency Analysis of Pre-damaged Curved Layered Composite Structure Using Higher-Order Finite Element Method",
+        "journal": "International Journal of Non-Linear Mechanics",
+        "status": "Accepted",
+        "impactFactor": 2.074,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2018,
+        "title": "Nonlinear Frequency Responses Of Functionally Graded Carbon Nanotube-Reinforced Sandwich Curved Panel Under Uniform Temperature Field",
+        "journal": "International Journal of Applied Mechanics",
+        "status": "Accepted",
+        "impactFactor": 1.954,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2018,
+        "title": "Thermoacoustic Behaviour of Laminated Composite Curved Panels using Higher-Order Finite-Boundary Element Model",
+        "journal": "International Journal of Applied Mechanics",
+        "status": "Accepted",
+        "impactFactor": 1.954,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2018,
+        "title": "Large-deformation bending responses of nanotube-reinforced polymer composite panel structure- numerical and experimental analysis",
+        "journal": "IMechE Part G: Journal of Aerospace Engineering",
+        "status": "Accepted",
+        "impactFactor": 0.809,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K.", "Hirwani, C. K."],
+        "year": 2017,
+        "title": "Acoustic Radiation and Frequency response of Higher-Order Shear Deformable Multilayered Composite Doubly Curved Shell Panel -An Experimental Validation",
+        "journal": "Applied Acoustics",
+        "status": "Accepted",
+        "impactFactor": 1.921,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Thermomechanical Deflection and Stress Responses of Delaminated Shallow Shell Structure using Higher-Order Theories",
+        "journal": "Composite Structures",
+        "status": "Accepted",
+        "doi": "https://doi.org/10.1016/j.compstruct.2017.09.071",
+        "impactFactor": 3.858,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Numerical analysis of acoustic radiation properties of laminated composite flat panel in thermal environment: A higher-order finite-boundary element approach",
+        "journal": "IMechE Part C: Journal of Mechanical Engineering Science",
+        "status": "Accepted",
+        "doi": "10.1177/0954406217735866",
+        "impactFactor": 1.015,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Sahoo, S. S.", "Panda, S. K.", "Mahapatra, T. R.", "Hirwani, C. K."],
+        "year": 2017,
+        "title": "Numerical analysis of transient responses of delaminated layered structure using different mid-plane theories and experimental validation",
+        "journal": "Iranian Journal of Science and Technology",
+        "status": "Accepted",
+        "doi": "10.1007/s40997-017-0111-3",
+        "impactFactor": 0.595,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Large-Amplitude Vibration of Temperature-Dependent Functionally Graded Cylindrical/Elliptical/Hyperbolic Panels under Heat Conduction",
+        "journal": "AIAA Journal",
+        "status": "Accepted",
+        "doi": "10.2514/1.J055878"
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Vibro-acoustic analysis of laminated composite plate by using structure-dependent radiation modes-An experimental validation",
+        "journal": "Scientia Iranica",
+        "status": "Accepted",
+        "impactFactor": 1.025,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Theoretical and experimental investigation of vibration characteristic of carbon nanotube reinforced polymer composite structure",
+        "journal": "International Journal of Mechanical Sciences",
+        "status": "Accepted",
+        "doi": "10.1016/j.ijmecsci.2017.08.057",
+        "impactFactor": 2.481,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K.", "Hirwani, C. K.", "Mehar, K.", "Thakare, O."],
+        "year": 2017,
+        "title": "Enhancement of thermal buckling strength of laminated sandwich composite panel structure embedded with shape memory alloy fibre",
+        "journal": "Smart Structures and Systems",
+        "pages": "595-605",
+        "doi": "10.12989/sss.2017.20.5.595",
+        "impactFactor": 1.16,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K.", "Mahapatra, T. R"],
+        "year": 2017,
+        "title": "Nonlinear finite element analysis of transient behaviour of delaminated composite plate",
+        "journal": "Journal of Vibration and Acoustics",
+        "volume": "140",
+        "issue": "2",
+        "pages": "021001",
+        "doi": "10.1115/1.4037848",
+        "impactFactor": 1.692,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Prediction of nonlinear eigenfrequency of laminated curved sandwich structure using higher-order equivalent single-layer theory",
+        "journal": "Journal of Sandwich Structures and Materials",
+        "doi": "10.1177/1099636217728420",
+        "status": "Accepted",
+        "impactFactor": 2.933,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Hirwani, C. K.", "Panda, S. K.", "Mahapatra, T. R.", "Mandal, S. K.", "Mahapatra, S. S.", "De, A."],
+        "year": 2017,
+        "title": "Delamination Effect on Flexural Responses of Layered Curved Shallow Shell Panel-Experimental and Numerical Analysis",
+        "journal": "International Journal of Computational Methods",
+        "doi": "10.1142/S0219876218500275",
+        "impactFactor": 1.053,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Vibro-acoustic behaviour of shear deformable laminated composite flat panel using BEM and the higher order shear deformation theory",
+        "journal": "Composite Structures",
+        "volume": "180",
+        "issue": "15",
+        "pages": "116-129",
+        "impactFactor": 3.858,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Thermoelastic Deflection Responses of CNT Reinforced Sandwich Shell Structure using Finite Element Method",
+        "journal": "Scientia Iranica",
+        "status": "Accepted",
+        "impactFactor": 1.025,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Jena, S.", "Sudro, P. N.", "Reddy, P. V.", "Arunachalam, T.", "Panda, S. K."],
+        "year": 2017,
+        "title": "The Effect of Transient Loading on A Foot-Orthotic Using Temporal Parameters of Gait",
+        "journal": "Journal of Mechanics in Medicine and Biology",
+        "status": "Accepted",
+        "impactFactor": 0.934,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Vibro-Acoustic analysis of Un-Baffled Curved Composite Panels: Experimental Validation",
+        "journal": "Structural Engineering Mechanics",
+        "pages": "93-107",
+        "doi": "10.12989/sem.2017.64.1.093",
+        "status": "Accepted",
+        "impactFactor": 1.114,
+        "databases": ["SCI", "SCOPUS"]
+      },
+      {
+        "authors": ["Sharma, N.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Numerical Study of Vibro-Acoustic Responses of Un-Baffled Multi-Layered Composite Structure under Various End Conditions and Experimental Validation",
+        "journal": "Latin American Journal of Solids and Structures",
+        "volume": "14",
+        "pages": "1547-1568",
+        "doi": "http://dx.doi.org/10.1590/1679-78253830",
+        "status": "Accepted",
+        "impactFactor": 1.114,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo, S. S.", "Hirwani, C. K.", "Panda, S. K.", "Sen, D."],
+        "year": 2017,
+        "title": "Numerical analysis of vibration and transient behaviour of laminated composite curved shallow shell structure: an experimental validation",
+        "journal": "Scientia Iranica",
+        "status": "Accepted",
+        "impactFactor": 1.025,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Thermoelastic Nonlinear Frequency Analysis of CNT Reinforced Functionally Graded Sandwich Structure",
+        "journal": "European Journal of Mechanics / A Solids",
+        "volume": "65",
+        "pages": "384-396",
+        "doi": "10.1016/j.euromechsol.2017.05.005",
+        "impactFactor": 2.453,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Bending and vibration analysis of skew sandwich plate",
+        "journal": "Aircraft Engineering and Aerospace Technology",
+        "status": "Accepted",
+        "impactFactor": 0.480,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Stress, Deflection and Frequency Analysis of CNT Reinforced Graded Sandwich Plate under Uniform and Linear Thermal Environment-A Finite Element Approach",
+        "journal": "Polymer Composites",
+        "status": "In Press",
+        "doi": "10.1002/pc.24409",
+        "impactFactor": 2.324,
+        "databases": ["IF"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Bui, T. Q.", "Mahapatra, T. R."],
+        "year": 2017,
+        "title": "Nonlinear Thermoelastic Frequency Analysis of Functionally Graded CNT Reinforced Single/Doubly Curved Shallow Shell Panels by FEM",
+        "journal": "Journal of Thermal Stresses",
+        "status": "In Press",
+        "doi": "http://dx.doi.org/10.1080/01495739.2017.1318689",
+        "impactFactor": 1.169,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Kar, V. R.", "Panda, S. K.", "Mehar, K."],
+        "year": 2017,
+        "title": "Nonlinear thermoelastic deflection of temperature dependent FGM curved shallow shell under nonlinear thermal loading",
+        "journal": "Journal of Thermal Stresses",
+        "status": "In Press",
+        "doi": "http://dx.doi.org/10.1080/01495739.2017.1302788",
+        "impactFactor": 1.169,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2017,
+        "title": "Elastic Bending and Stress Analysis of CNT-Reinforced Composite Plate: Experimental, Numerical and Simulation",
+        "journal": "Advances in Polymer Technology",
+        "status": "In Press",
+        "pages": "1-15",
+        "doi": "10.1002/adv.21821",
+        "impactFactor": 1.114,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K", "Panda, S. K.", "Mahapatra, T. R.", "Mahapatra, S. S."],
+        "year": 2017,
+        "title": "Numerical Study of Dynamic Characteristics of Delaminated Composite Flat/Curved Shallow Shell Structure and Experimental Validation",
+        "journal": "ASCE J. Aerospace Engineering",
+        "doi": "10.1061/(ASCE)AS.1943-5525.0000756",
+        "status": "Accepted"
+      },
+      {
+        "authors": ["Jena, Shreeshan", "Sakhare, Gaurav M.", "Panda, Subrata K.", "Thirugnanam, A."],
+        "year": 2017,
+        "title": "Evaluation and Prediction Of Human Gait Parameters Using Univariate, Multivariate and Step-Wise Statistical Methods",
+        "journal": "Journal of Mechanics in Medicine and Biology",
+        "doi": "10.1142/S0219519417500762",
+        "status": "Accepted",
+        "impactFactor": 0.934,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K", "Panda, S. K.", "Mahapatra, T. R.", "Sahoo, S. S.", "Singh, V. K.", "Patle, B. K."],
+        "year": 2017,
+        "title": "Nonlinear Free Vibration Analysis of Laminated Carbon/Epoxy Curved Panels: Theoretical and Experimental Investigation",
+        "journal": "Defense Science Journal",
+        "volume": "67",
+        "issue": "2",
+        "pages": "207-218",
+        "impactFactor": 0.428,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Patle, B. K."],
+        "year": 2017,
+        "title": "Thermoelastic vibration and flexural behavior of FG-CNT reinforced composite curved panel",
+        "journal": "International Journal of Applied Mechanics",
+        "volume": "9",
+        "number": "4",
+        "doi": "10.1142/S1758825117500466",
+        "status": "In press",
+        "impactFactor": 1.468,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2016,
+        "title": "Thermal buckling behaviour of shear deformable functionally graded single/doubly curved shell panel with TD and TID properties",
+        "journal": "Advanced Material Research",
+        "volume": "5",
+        "number": "4",
+        "pages": "205-221",
+        "databases": ["ESCI"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Thermal Free Vibration Behaviour of FG-CNT Reinforced Sandwich Curved Panel using Finite Element Method",
+        "journal": "Polymer Composites",
+        "doi": "10.1002/pc.24266",
+        "impactFactor": 2.004,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Effect of Different Temperature Load on Thermal Postbuckling Behaviour of Functionally Graded Shallow Curved Shell Panels",
+        "journal": "Composite Structures",
+        "doi": "10.1016/j.compstruct.2016.10.125",
+        "impactFactor": 3.858,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Numerical Investigation of Nonlinear Thermomechanical Deflection of Functionally Graded CNT Reinforced Doubly Curved Composite Shell Panel under Different Mechanical Loads",
+        "journal": "Composite Structures",
+        "doi": "10.1016/j.compstruct.2016.10.135",
+        "impactFactor": 3.23,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Hirwani, C. K", "Panda, S. K.", "Mahapatra, S. S.", "Mandal, S. K.", "Srivastava, L.", "Buragohain, M. K."],
+        "year": 2016,
+        "title": "Flexural Strength of Delaminated Composite Plate-An Experimental Validation",
+        "journal": "International Journal of Damage Mechanics",
+        "doi": "10.1177/0123456789123456",
+        "impactFactor": 1.362,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Sahoo S. S.", "Panda S. K.", "Singh V. K.", "Mahapatra T. R."],
+        "year": 2016,
+        "title": "Numerical investigation of nonlinear flexural behaviour of wrapped Glass/Epoxy laminated composite panel and experimental validation",
+        "journal": "Archieve of Applied of Mechanics",
+        "doi": "10.1007/s00419-016-1195-8",
+        "impactFactor": 1.103,
+        "databases": ["SCI", "SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Dutta G.", "Panda, S. K.", "Mahapatra T. R.", "Singh V. K."],
+        "year": 2016,
+        "title": "Electro-magneto-elastic response of laminated composite plate: A finite element approach",
+        "journal": "International Journal of Applied and Computational Mathematics",
+        "volume": "3",
+        "number": "3",
+        "pages": "2573-2592",
+        "doi": "10.1007/s40819-016-0256-6",
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Nonlinear Static Behaviour of FG-CNT Reinforced Composite Flat Panel under Thermo-mechanical Load",
+        "journal": "ASCE Journal of Aerospace Engineering",
+        "doi": "10.1061/(ASCE)AS.1943-5525.0000706"
+      },
+      {
+        "authors": ["Singh, V. K.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Nonlinear flexural analysis of single/doubly curved smart composite shell panels integrated with PFRC actuator",
+        "journal": "European Journal of Mechanics-A/Solids",
+        "doi": "10.1016/j.euromechsol.2016.08.006",
+        "impactFactor": 1.678,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Singh, V. K.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Nonlinear transient analysis of smart laminated composite plate integrated with PVDF sensor and AFC actuator",
+        "journal": "Composite Structures",
+        "volume": "157",
+        "pages": "121-130",
+        "impactFactor": 3.858,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Post-buckling behaviour of shear deformable functionally graded curved shell panel under edge compression",
+        "journal": "International Journal of Mechanical Sciences",
+        "volume": "115-116",
+        "pages": "318–324",
+        "impactFactor": 2.481,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Post-buckling analysis of shear deformable FG shallow spherical shell panel under uniform and non-uniform thermal environment",
+        "journal": "Journal of Thermal Stresses",
+        "doi": "10.1080/01495739.2016.1207118",
+        "impactFactor": 1.169,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Thermoelastic analysis of FG-CNT reinforced shear defromable composite plate under various loading",
+        "journal": "International Journal of Computational Methods",
+        "volume": "14",
+        "number": "2",
+        "pages": "1750019 (22 pages)",
+        "doi": "10.1142/S0219876217500190",
+        "impactFactor": 1.123,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Nonlinear Thermo-mechanical Behaviour of FGM Cylindrical/Hyperbolic/Elliptical Shell Panel with TD and TID Properties",
+        "journal": "Journal of Pressure Vessel Technology, ASME",
+        "volume": "138",
+        "number": "6",
+        "doi": "10.1115/1.4033701",
+        "impactFactor": 0.729,
+        "databases": ["SCIE", "SCOPUS"]
+      },
+      {
+        "authors": ["Hirwani, C. K", "Patil, R.", "Panda, S. K.", "Mahapatra, S. S.", "Mandal, S. K.", "Srivastava, L.", "Buragohain, M. K."],
+        "year": 2016,
+        "title": "Experimental and Numerical Analysis of Free Vibration of Delaminated Curved Panel",
+        "journal": "Aerospace Science and Technology",
+        "volume": "54",
+        "pages": "353-370",
+        "impactFactor": 0.940,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Thermoelastic Flexural Analysis of FG-CNT Doubly Curved Shell Panel",
+        "journal": "Aircraft Engineering and Aerospace Technology",
+        "doi": "10.1108/AEAT-11-2015-0237",
+        "impactFactor": 0.480,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Sahoo, S. S.", "Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2016,
+        "title": "Static, Free Vibration and Transient Response of Laminated Composite Curved Shallow Panel-An Experimental Approach",
+        "journal": "European Journal of Mechanics-A/Solids",
+        "volume": "59",
+        "pages": "95-113",
+        "doi": "10.1016/j.euromechsol.2016.03.014",
+        "impactFactor": 1.678,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Geometrical Nonlinear Free Vibration Analysis of FG-CNT Reinforced Composite Flat Panel under Uniform Thermal Field",
+        "journal": "Composite Structures",
+        "volume": "143",
+        "pages": "336-346",
+        "impactFactor": 3.858,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Sahoo, S. S.", "Panda, S. K.", "Sen, D."],
+        "year": 2016,
+        "title": "Effect of delamination on Vibration, Bending and Transient Behaviour of Laminated Composite Plate",
+        "journal": "AIAA Journal",
+        "volume": "54",
+        "number": "8",
+        "pages": "2530-2544",
+        "impactFactor": 1.207,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Geometrical nonlinear free vibration analysis of FGM spherical panel under nonlinear thermal loading with TD and TID properties",
+        "journal": "Journal of Thermal Stresses",
+        "doi": "10.1080/01495739.2016.1188623",
+        "impactFactor": 1.169,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda, S. K.", "Kar, V. R."],
+        "year": 2016,
+        "title": "Nonlinear flexural analysis of laminated composite panel under hygro-thermo-mechanical loading -a micromechanical approach",
+        "journal": "International Journal of Computational Methods",
+        "volume": "13",
+        "number": "3",
+        "pages": "1650015 (1-33)",
+        "doi": "10.1142/S0219876216500158",
+        "impactFactor": 1.123,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Nonlinear free vibration analysis of laminated composite spherical shell panel under elevated hygrothermal environment: A micromechanical approach",
+        "journal": "Aerospace Science and Technology",
+        "doi": "10.1016/J.AST.2015.12.018",
+        "impactFactor": 0.940,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Sahoo, S. S.", "Singh, V. K.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Nonlinear Flexural Analysis of Shallow Laminated Carbon/Epoxy Composite Curved Shell Panels: Experimental and Numerical Investigation",
+        "journal": "Journal of Engineering Mechanics ASCE",
+        "doi": "10.1061/ (ASCE) EM.1943-7889.0001040",
+        "impactFactor": 1.29,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Mehar, K.", "Panda, S. K.", "Dehengia, A.", "Kar, V. R."],
+        "year": 2015,
+        "title": "Vibration Analysis of Functionally Graded Carbon Nanotube Reinforced Composite Plate in Thermal Environment",
+        "journal": "Journal of Sandwich Structures and Materials",
+        "doi": "10.1177/1099636215613324",
+        "impactFactor": 2.852,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Nonlinear thermomechanical deformation behaviour of P-FGM spherical shallow shell panel",
+        "journal": "Chinese Journal of Aeronautics",
+        "doi": "10.1016/J.CJA.2015.12.007",
+        "impactFactor": 1.070,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Singh, V. K.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Large Amplitude Vibration Behaviour of Doubly Curved Composite Panels Embedded with Piezoelectric Layers",
+        "journal": "Journal of Vibration and Control",
+        "doi": "10.1177/1077546315609988",
+        "impactFactor": 4.36,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda, S. K.", "Kar, V. R."],
+        "year": 2015,
+        "title": "Nonlinear hygro-thermo-elastic vibration analysis of doubly curved composite shell panel using finite element micromechanical model",
+        "journal": "Mechanics of Advanced Materials and Structure",
+        "volume": "23",
+        "number": "11",
+        "pages": "1343-1359",
+        "impactFactor": 0.701,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Sahoo, S. S.", "Panda, S. K.", "Singh, V. K."],
+        "year": 2015,
+        "title": "Experimental and numerical investigation of static and free vibration responses of woven Glass/Epoxy laminated composite plate",
+        "journal": "Proceedings of IMechE Part L: Journal of Materials: Design and Applications",
+        "doi": "10.1177/1464420715600191",
+        "impactFactor": 0.672,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Kar, V. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Large amplitude bending behaviour of laminated composite curved panels",
+        "journal": "Engineering Computation, International Journal for Computer-Aided Engineering and Software",
+        "volume": "33",
+        "number": "1",
+        "impactFactor": 1.206,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Free vibration responses of temperature dependent functionally graded curved panels under thermal environment",
+        "journal": "Latin American Journal of Solids and Structures",
+        "volume": "12",
+        "number": "11",
+        "pages": "2006-2024",
+        "impactFactor": 1.254,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Singh, V. K.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Large amplitude vibration behaviour of laminated composite spherical shell embedded with piezoelectric layer",
+        "journal": "Smart Structures and Systems, An International Journal",
+        "volume": "16",
+        "number": "5",
+        "pages": "2015",
+        "impactFactor": 1.16,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Thermoelastic analysis of functionally graded doubly curved shell panels using nonlinear finite element method",
+        "journal": "Composite Structures",
+        "volume": "129",
+        "pages": "202-212",
+        "impactFactor": 3.858,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Nonlinear flexural analysis of laminated composite flat panel under hygro-thermo-mechanical loading",
+        "journal": "Steel and Composite Structures An International Journal",
+        "volume": "19",
+        "number": "4",
+        "pages": "1011-1033",
+        "impactFactor": 0.933,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda, S. K.", "Kar, V. R."],
+        "year": 2015,
+        "title": "Geometrically nonlinear flexural analysis of hygro-thermo-elastic laminated composite doubly curved shell panel",
+        "journal": "International Journal of Mechanics and Materials in Design",
+        "doi": "10.1007/s10999-015-9299-9",
+        "impactFactor": 1.196,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Stability and vibration analysis of laminated composite curved panel under thermo-mechanical load",
+        "journal": "International Journal of Applied and Computational Mathematics",
+        "volume": "1",
+        "number": "3",
+        "pages": "475-490",
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Kar, V. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Nonlinear free vibration analysis of laminated composite doubly curved shell panel in hygrothermal environment",
+        "journal": "Journal of Sandwich Structures and Materials",
+        "doi": "10.1177/1099636215577363",
+        "impactFactor": 2.852,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Nonlinear flexural vibration of shear deformable functionally graded spherical shell panel",
+        "journal": "Steel and Composite Structures An International Journal",
+        "volume": "18",
+        "number": "3",
+        "pages": "693-709",
+        "impactFactor": 0.933,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Katariya, P. V.", "Panda, S. K."],
+        "year": 2014,
+        "title": "Thermal Buckling and Vibration Analysis of Laminated Composite Curved Shell Panel",
+        "journal": "Aircraft Engineering and Aerospace Technology",
+        "volume": "88",
+        "number": "1",
+        "doi": "10.1108/AEAT-11-2013-0202",
+        "impactFactor": 0.480,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Singh, V. K.", "Panda, S. K."],
+        "year": 2014,
+        "title": "Nonlinear free vibration analysis of single/doubly curved composite shallow shell panels",
+        "journal": "Thin-Walled Structures",
+        "volume": "85",
+        "pages": "341–349",
+        "impactFactor": 1.75,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda, S. K."],
+        "year": 2015,
+        "title": "Thermoelastic Vibration Analysis of Laminated Doubly Curved Shallow Shell Panel",
+        "journal": "Journal of Thermal Stresses",
+        "volume": "38",
+        "number": "1",
+        "impactFactor": 1.169,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Kar, V. R.", "Panda, S. K."],
+        "year": 2016,
+        "title": "Large Amplitude Free Vibration Analysis of Laminated Composite Spherical Panel under Hygrothermal Environment",
+        "journal": "International Journal of Structural Stability and Dynamics",
+        "volume": "16",
+        "number": "2",
+        "impactFactor": 1.059,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2014,
+        "title": "Large deformation bending analysis of functionally graded spherical shell using FEM",
+        "journal": "Structural Engineering Mechanics An International Journal",
+        "volume": "53",
+        "number": "4",
+        "pages": "661-679",
+        "impactFactor": 0.766,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Kar, V. R.", "Panda, S. K."],
+        "year": 2014,
+        "title": "Nonlinear free vibration of functionally graded doubly curved shear deformable panels using finite element method",
+        "journal": "Journal of Vibration and Control",
+        "doi": "10.1177/1077546314545102",
+        "impactFactor": 4.355,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Mahapatra, T. R."],
+        "year": 2014,
+        "title": "Nonlinear Finite Element Analysis of Laminated Composite Spherical Shell Vibration under Uniform Thermal Loading",
+        "journal": "Meccanica",
+        "volume": "49",
+        "number": "1",
+        "pages": "191-213",
+        "impactFactor": 1.185,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda S. K.", "Kar, C."],
+        "year": 2014,
+        "title": "Vibration behaviour of laminated composite flat panel under hygrothermal environment",
+        "book": "Innovative Trends in Mechanical, Material, Manufacturing, Automotive, Automobile and Aeronautical Engineering",
+        "volume": "4",
+        "number": "5",
+        "pages": "455-464",
+        "databases": ["SCOPUS"]
+      },
+      {
+        "authors": ["Mahapatra, T. R.", "Panda S. K.", "Kar, C."],
+        "year": 2014,
+        "title": "Nonlinear bending analysis of shear deformable laminated composite flat panel",
+        "conference": "International Conference on Advances in Engineering and Technology",
+        "location": "Pune, India",
+        "date": "1 -3 September",
+        "journal": "International Journal of Engineering Sciences",
+        "ISSN": "0976 – 6693"
+      },
+      {
+        "authors": ["Singh, V. K.", "Panda, S. K."],
+        "year": 2013,
+        "title": "Free vibration analysis of Laminated Composite Cylindrical Panel",
+        "conference": "Advances in modelling and Analysis of Aerodynamic Systems (AMAAS)",
+        "location": "NIT Rourkela, Odisha, India",
+        "date": "1-2 March",
+        "journal": "International Journal of Engineering and Science Invention Special Issue Archieve"
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2013,
+        "title": "Large Amplitude Free Vibration Analysis of Thermally Post-buckled Composite Doubly Curved Panel Embedded with SMA fibres",
+        "journal": "Nonlinear Dynamics",
+        "volume": "74",
+        "issue": "1-2",
+        "pages": "395-418",
+        "impactFactor": 2.849,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2013,
+        "title": "Thermal Post-buckling Analysis of Laminated Composite Shell Panel using NFEM",
+        "journal": "Mechanics Based Design of Structures and Machines",
+        "volume": "41",
+        "number": "4",
+        "pages": "468-488",
+        "impactFactor": 0.842,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2013,
+        "title": "Nonlinear Finite Element Analysis of Thermal Post-buckling Vibration of Laminated Composite Shell Panel Embedded with SMA fibre",
+        "journal": "Aerospace Science and Technology",
+        "volume": "29",
+        "number": "1",
+        "pages": "47-57",
+        "impactFactor": 0.940,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2013,
+        "title": "Post-Buckling Analysis of Laminated Composite Doubly Curved Panel Embedded with SMA Fibres Subjected to Thermal Environment",
+        "journal": "Mechanics of Advanced Material and Structures",
+        "volume": "20",
+        "number": "10",
+        "pages": "842-853",
+        "impactFactor": 0.701,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2011,
+        "title": "Large Amplitude Free Vibration Analysis of Thermally Post-buckled Composite Doubly Curved Panel using Nonlinear FEM",
+        "journal": "Finite Elements in Analysis and Design",
+        "volume": "47",
+        "number": "4",
+        "pages": "378-386",
+        "impactFactor": 2.017,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2010,
+        "title": "Nonlinear Free Vibration Analysis of Thermally Post-buckled Composite Spherical Shell Panel",
+        "journal": "International Journal of Mechanics and Materials in Design",
+        "volume": "6",
+        "number": "2",
+        "pages": "175-188",
+        "impactFactor": 1.196,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2010,
+        "title": "Thermal post-buckling analysis of laminated composite spherical shell panel embedded with SMA fibres using nonlinear FEM",
+        "journal": "Proc. IMechE Part C: Journal of Mechanical Engineering and Science",
+        "volume": "224",
+        "number": "4",
+        "pages": "757-769",
+        "impactFactor": 0.589,
+        "databases": ["SCI", "SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2009,
+        "title": "Thermal Post-buckling Behaviour of Laminated Composite Cylindrical/Hyperboloidal Shallow Shell Panel Using Nonlinear Finite Element Method",
+        "journal": "Composite Structures",
+        "volume": "91",
+        "number": "3",
+        "pages": "366-384",
+        "impactFactor": 3.858,
+        "databases": ["SCI"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2009,
+        "title": "Nonlinear Free Vibration of Spherical Shell Panel using Higher Order Shear Deformation Theory – a Finite Element Approach",
+        "journal": "International Journal of Pressure Vessels and Piping",
+        "volume": "86",
+        "number": "6",
+        "pages": "373-383",
+        "impactFactor": 1.283,
+        "databases": ["SCIE"]
+      },
+      {
+        "authors": ["Panda, S. K.", "Singh, B. N."],
+        "year": 2008,
+        "title": "Non-linear Free Vibration Analysis of Laminated Composite Cylindrical/Hyperboloidal Shell Panels Based on Higher Order Shear Deformation Theory using Nonlinear Finite-Element Method",
+        "journal": "Proceedings of IMechE Part G: Journal of Aerospace Engineering",
+        "volume": "222",
+        "number": "7",
+        "pages": "993-1006",
+        "impactFactor": 0.454,
+        "databases": ["SCI", "SCIE"]
+      }
+  ]
