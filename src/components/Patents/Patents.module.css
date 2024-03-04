@@ -11,7 +11,7 @@
 }
 
 .patents-container {
-    width: 80vw;
+    width: 100%;
     overflow-x: auto;
     white-space: initial;
     scrollbar-width: none;
@@ -19,12 +19,12 @@
 
 .patents-container > div {
     padding: 2rem;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 1rem;
 }
 
 .patent-card {
-    width: 400px;
     height:300px;
     background-color: #0F161C;
     padding: 1rem;
@@ -43,4 +43,10 @@
 
 .patent-card p {
     white-space: initial;
+}
+
+@media only screen and (max-width: 1400px) {
+    .patents-container > div {
+        grid-template-columns: 1fr 1fr;
+    }
 }

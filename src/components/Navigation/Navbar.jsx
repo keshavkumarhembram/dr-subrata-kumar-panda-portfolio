@@ -14,7 +14,7 @@ const  Navbar = () => {
                 <NavLink className={({isActive}) => isActive ? styles['active-link'] : styles.link } to="/">HOME</NavLink>
             </li>
             <li>
-                <a  className={styles.link } href="#education">EDUCATION</a>
+                <a  className={styles.link } href="/#education">EDUCATION</a>
             </li>
             <li>
                 <NavLink className={({isActive}) => isActive ? styles['active-link'] : styles.link } to="/work">WORK</NavLink>
@@ -22,9 +22,6 @@ const  Navbar = () => {
             <li>
                 <NavLink className={({isActive}) => isActive ? styles['active-link'] : styles.link }to="/projects">PROJECTS</NavLink>
             </li>
-            {/* <li>
-                <NavLink className={({isActive}) => isActive ? styles['active-link'] : styles.link } to="/contact">CONTACT</NavLink>
-            </li> */}
         </ul>
             </div>
     
